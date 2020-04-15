@@ -1,0 +1,19 @@
+album: ''
+alias: ''
+author: Schoolly D
+category: 歌
+consensus_translation: 意指的说唱歌手
+date: '1988'
+group: ''
+id: signifying rapper
+name: Signifying Rapper
+opinions:
+- details: 出自《The Signifying Monkey》这本书，所以翻译沿用中文版书的标题：意指
+  github_handler: ''
+  translation: 意指的说唱歌手
+  user_name: mimida
+- details: The teasing, taunting, and insulting tradition within African American
+    culture is referred to as “signifyin’”
+  github_handler: ''
+  translation: 虚有其表的说唱歌手
+  user_name: Tian Tang

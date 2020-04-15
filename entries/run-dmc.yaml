@@ -1,0 +1,14 @@
+album: ''
+alias: ''
+author: ''
+category: 乐人
+consensus_translation: Run-DMC
+date: ''
+group: ''
+id: run-dmc
+name: Run-DMC
+opinions:
+- details: 这个从来没人翻译过，直接用
+  github_handler: ''
+  translation: Run-DMC
+  user_name: redhousepainter

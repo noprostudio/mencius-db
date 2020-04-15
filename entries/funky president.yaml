@@ -1,0 +1,18 @@
+album: ''
+alias: ''
+author: James Brown
+category: 歌
+consensus_translation: 荒唐总统
+date: '1974'
+group: ''
+id: funky president
+name: Funky President
+opinions:
+- details: ''
+  github_handler: ''
+  translation: 荒唐总统
+  user_name: mimida
+- details: 这里，因为这首歌是批评总统的，所以funky应该理解成贬义的，滑稽，傻逼，胡闹的
+  github_handler: ''
+  translation: '滑稽总统 '
+  user_name: Tian Tang

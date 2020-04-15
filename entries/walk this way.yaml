@@ -1,0 +1,18 @@
+album: ''
+alias: ''
+author: Aerosmith
+category: 歌
+consensus_translation: 行此路
+date: '1975'
+group: ''
+id: walk this way
+name: Walk This Way
+opinions:
+- details: ''
+  github_handler: ''
+  translation: 行此路
+  user_name: mimida
+- details: 之前有人直接翻：走这条路
+  github_handler: ''
+  translation: 走这边/勇往直前
+  user_name: redhousepainter

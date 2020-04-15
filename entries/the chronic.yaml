@@ -1,0 +1,18 @@
+album: '-'
+alias: ''
+author: Dr. Dre
+category: 专辑
+consensus_translation: 慢性
+date: '1993'
+group: ''
+id: the chronic
+name: The Chronic
+opinions:
+- details: Netflix翻译
+  github_handler: ''
+  translation: 好货色
+  user_name: mimida
+- details: 多年以来的固定翻译，不用管准不准
+  github_handler: ''
+  translation: 慢性
+  user_name: Lil Bag

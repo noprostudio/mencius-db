@@ -1,0 +1,18 @@
+album: ''
+alias: ''
+author: ''
+category: 乐人
+consensus_translation: 酷利奥
+date: ''
+group: ''
+id: coolio
+name: Coolio
+opinions:
+- details: ''
+  github_handler: ''
+  translation: 酷利奥
+  user_name: mimida
+- details: 国内以前也有翻：胡里奥
+  github_handler: ''
+  translation: 胡里奥
+  user_name: redhousepainter

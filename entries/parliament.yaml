@@ -1,0 +1,18 @@
+album: ''
+alias: ''
+author: ''
+category: 乐人
+consensus_translation: 百乐门
+date: ''
+group: ''
+id: parliament
+name: Parliament
+opinions:
+- details: 维基上说名称来源“Parliament”香烟，香烟通常译作“百乐门”：https://en.wikipedia.org/wiki/Parliament-Funkadelic
+  github_handler: ''
+  translation: 百乐门
+  user_name: mimida
+- details: george在建立乐团之初请来了不少歌手，严格来说是一支合唱组合。当时的合唱组合喜欢以鸟名，汽车品牌，香烟品牌命名，george考虑到香烟带着一点成人感和危险感，是一种挺酷的标志，而Parliament是当时著名的香烟品牌，于是就借来用作乐团名。
+  github_handler: ''
+  translation: 百乐门
+  user_name: redhousepainter

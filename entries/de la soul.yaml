@@ -1,0 +1,22 @@
+album: ''
+alias: ''
+author: ''
+category: 乐人
+consensus_translation: 迪拉索
+date: ''
+group: ''
+id: de la soul
+name: De La Soul
+opinions:
+- details: 也可以叫“来自灵魂”、“灵魂深处”，因为“De La = of/from”，见：https://www.spanishdict.com/answers/123894/what-does-the-contractions-del-and-de-la-mean，但暂且音译
+  github_handler: ''
+  translation: 迪拉索
+  user_name: mimida
+- details: 这个之前国内以前好像一直翻成“德拉灵魂”
+  github_handler: ''
+  translation: 德拉灵魂
+  user_name: redhousepainter
+- details: ''
+  github_handler: ''
+  translation: 德拉索
+  user_name: Lil Bag
