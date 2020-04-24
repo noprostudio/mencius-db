@@ -9,11 +9,10 @@ id: incredible bongo band
 language: en
 name: Incredible Bongo Band
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 非凡的邦哥乐队
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 非凡的邦哥乐队
+  user_name: mimida
 wikipedia:
   extract: 'The Incredible Bongo Band, also known as Michael Viner''s Incredible Bongo
     Band, was a project started in 1972 by Michael Viner, a record artist manager

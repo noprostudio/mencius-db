@@ -9,11 +9,10 @@ id: tour de france
 language: en
 name: Tour de France
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 环法自行车赛
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 环法自行车赛
+  user_name: mimida
 wikipedia:
   extract: 'The Tour de France (French pronunciation: ​[tuʁ də fʁɑ̃s]) is an annual
     men''s multiple stage bicycle race primarily held in France, while also occasionally

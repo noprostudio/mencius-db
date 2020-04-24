@@ -9,11 +9,10 @@ id: jean-michel basquiat
 language: en
 name: Jean-Michel Basquiat
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 让·米切尔·巴斯奎特
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 让·米切尔·巴斯奎特
+  user_name: mimida
 wikipedia:
   extract: 'Jean-Michel Basquiat (French: [ʒɑ̃ miʃɛl baskija]; December 22, 1960 –
     August 12, 1988) was an American artist of Haitian and Puerto Rican descent. Basquiat

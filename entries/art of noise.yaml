@@ -9,11 +9,10 @@ id: art of noise
 language: en
 name: Art of Noise
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 噪音艺术
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 噪音艺术
+  user_name: mimida
 wikipedia:
   extract: 'Art of Noise (also The Art of Noise) were an English avant-garde synth-pop
     group formed in early 1983 by engineer/producer Gary Langan and programmer J.

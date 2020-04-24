@@ -9,11 +9,10 @@ id: jimmie rodgers
 language: en
 name: Jimmie Rodgers
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 吉米·罗杰斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 吉米·罗杰斯
+  user_name: mimida
 wikipedia:
   extract: 'James Rogers or Rodgers may refer to:'
   ns: 0

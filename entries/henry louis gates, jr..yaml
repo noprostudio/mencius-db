@@ -9,11 +9,10 @@ id: henry louis gates, jr.
 language: en
 name: Henry Louis Gates, Jr.
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 小亨利·路易斯·盖茨
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 小亨利·路易斯·盖茨
+  user_name: mimida
 wikipedia:
   extract: 'Henry Louis "Skip" Gates Jr. (born September 16, 1950) is an American
     literary critic, teacher, historian, filmmaker and public intellectual who serves

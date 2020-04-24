@@ -9,11 +9,10 @@ id: 'thomas kuhn '
 language: en
 name: 'Thomas Kuhn '
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 托马斯·库恩
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 托马斯·库恩
+  user_name: mimida
 wikipedia:
   extract: 'Thomas Samuel Kuhn (; July 18, 1922 – June 17, 1996) was an American philosopher
     of science whose 1962 book The Structure of Scientific Revolutions was influential

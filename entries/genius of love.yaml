@@ -9,11 +9,10 @@ id: genius of love
 language: en
 name: Genius of Love
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 爱的天才
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 爱的天才
+  user_name: mimida
 wikipedia:
   extract: '"Genius of Love" is a 1981 hit song by Tom Tom Club from their 1981 eponymous
     debut album.  It reached number one on the Billboard Disco Top 80 chart.'

@@ -9,11 +9,10 @@ id: head hunters
 language: en
 name: Head Hunters
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 猎头者
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 猎头者
+  user_name: mimida
 wikipedia:
   extract: Head Hunters is the twelfth studio album by the American pianist and composer
     Herbie Hancock, released October 26, 1973, on Columbia Records. Recording sessions

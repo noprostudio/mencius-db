@@ -9,11 +9,10 @@ id: nujabes
 language: en
 name: Nujabes
 opinions:
-- redhousepainter:
-    details: 没法翻译。他日文名叫瀬场润（瀬葉淳），用罗马音拼是seba jun，倒过来了就是nujabes
-    github_handler: redhousepainter
-    translation: Nujabes
-    user_name: redhousepainter
+- details: 没法翻译。他日文名叫瀬场润（瀬葉淳），用罗马音拼是seba jun，倒过来了就是nujabes
+  github_handler: redhousepainter
+  translation: Nujabes
+  user_name: redhousepainter
 wikipedia:
   extract: 'Jun Seba (Japanese: 瀬葉 淳, Hepburn: Seba Jun, February 7, 1974 – February
     26, 2010), better known by his stage name Nujabes (ヌジャベス, Nujabesu), was a Japanese

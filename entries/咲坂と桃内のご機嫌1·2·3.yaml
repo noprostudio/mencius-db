@@ -9,9 +9,8 @@ id: 咲坂と桃内のご機嫌1·2·3
 language: en
 name: 咲坂と桃内のご機嫌1·2·3
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 咲坂和桃内向您问好1·2·3
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 咲坂和桃内向您问好1·2·3
+  user_name: mimida
 wikipedia: null

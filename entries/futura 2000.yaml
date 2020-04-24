@@ -9,11 +9,10 @@ id: futura 2000
 language: en
 name: Futura 2000
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 福图拉2000
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 福图拉2000
+  user_name: mimida
 wikipedia:
   extract: Leonard Hilton McGurr (born 17 November 1955), known as Futura, and formerly
     known as "Futura 2000", is an American graffiti artist.

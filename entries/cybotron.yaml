@@ -9,11 +9,10 @@ id: cybotron
 language: en
 name: Cybotron
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 电子人装置
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 电子人装置
+  user_name: mimida
 wikipedia:
   extract: '"Cybotron" can refer to:
 

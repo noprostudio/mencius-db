@@ -9,11 +9,10 @@ id: nirvana
 language: en
 name: Nirvana
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 涅槃
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 涅槃
+  user_name: mimida
 wikipedia:
   extract: 'Nirvāṇa ( neer-VAH-nə,  -⁠VAN-ə,  nur-; Sanskrit: निर्वाण nirvāṇa [nɪɽʋaːɳɐ];
     Pali: निब्बान nibbāna; Prakrit: णिव्वाण ṇivvāṇa, literally "blown out", as in

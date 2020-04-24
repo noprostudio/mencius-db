@@ -9,9 +9,8 @@ id: 'the signifying monkey: a theory of african-american literary criticism'
 language: en
 name: 'The Signifying Monkey: A Theory of African-American Literary Criticism'
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 意指的猴子：一个非裔美国文学批评理论
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 意指的猴子：一个非裔美国文学批评理论
+  user_name: mimida
 wikipedia: null

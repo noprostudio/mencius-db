@@ -9,11 +9,10 @@ id: soul train
 language: en
 name: Soul Train
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 灵魂列车
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 灵魂列车
+  user_name: mimida
 wikipedia:
   extract: 'Soul Train is an American music-dance television program which aired in
     syndication from October 2, 1971, to March 27, 2006. In its 35-year history, the

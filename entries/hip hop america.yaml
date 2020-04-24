@@ -9,9 +9,8 @@ id: hip hop america
 language: en
 name: Hip Hop America
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 嘻哈美国
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 嘻哈美国
+  user_name: mimida
 wikipedia: null

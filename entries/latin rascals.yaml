@@ -9,16 +9,14 @@ id: latin rascals
 language: en
 name: Latin Rascals
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 拉丁流氓
-    user_name: mimida
-- Tian-Tang:
-    details: ''
-    github_handler: Tian-Tang
-    translation: 拉丁混账
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 拉丁流氓
+  user_name: mimida
+- details: ''
+  github_handler: Tian-Tang
+  translation: 拉丁混账
+  user_name: Tian Tang
 wikipedia:
   extract: Anthony "Tony" Moran is a DJ, record producer, remixer, singer and songwriter
     known for remixing popular songs. In 2007, he hit number one on the U.S. Billboard

@@ -9,11 +9,10 @@ id: 細野晴臣
 language: jp
 name: 細野晴臣
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 细野晴臣
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 细野晴臣
+  user_name: mimida
 wikipedia:
   extract: 細野 晴臣（ほその はるおみ、1947年7月9日 - ）は、日本のミュージシャン。
   ns: 0

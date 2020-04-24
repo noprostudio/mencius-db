@@ -9,11 +9,10 @@ id: lightnin' rod
 language: en
 name: Lightnin' Rod
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 避雷针
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 避雷针
+  user_name: mimida
 wikipedia:
   extract: 'Jalaluddin Mansur Nuriddin (July 24, 1944 – June 4, 2018) was an American
     poet and musician. He was one of the founding members of The Last Poets, a group

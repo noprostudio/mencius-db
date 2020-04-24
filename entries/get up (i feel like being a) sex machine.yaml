@@ -9,11 +9,10 @@ id: get up (i feel like being a) sex machine
 language: en
 name: Get Up (I Feel Like Being a) Sex Machine
 opinions:
-- Tian-Tang:
-    details: ''
-    github_handler: Tian-Tang
-    translation: 启动，（就像个）性爱机器
-    user_name: Tian Tang
+- details: ''
+  github_handler: Tian-Tang
+  translation: 启动，（就像个）性爱机器
+  user_name: Tian Tang
 wikipedia:
   extract: '"Get Up (I Feel Like Being a) Sex Machine" is a song recorded by James
     Brown with Bobby Byrd on backing vocals. Released as a two-part single in 1970,

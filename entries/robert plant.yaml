@@ -9,11 +9,10 @@ id: robert plant
 language: en
 name: Robert Plant
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 罗伯特·普兰特
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 罗伯特·普兰特
+  user_name: mimida
 wikipedia:
   extract: 'Robert Anthony Plant  (born 20 August 1948) is an English singer, songwriter,
     and musician, best known as the lead singer and lyricist of the rock band Led

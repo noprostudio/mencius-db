@@ -9,11 +9,10 @@ id: frankie knuckles
 language: en
 name: Frankie Knuckles
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 弗兰奇·纳寇斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 弗兰奇·纳寇斯
+  user_name: mimida
 wikipedia:
   extract: Francis Warren Nicholls, Jr. (January 18, 1955 – March 31, 2014), better
     known as Frankie Knuckles, was an American DJ, record producer and remixer. He

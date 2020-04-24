@@ -9,11 +9,10 @@ id: bruce springsteen
 language: en
 name: Bruce Springsteen
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 布鲁斯·斯普林斯汀
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 布鲁斯·斯普林斯汀
+  user_name: mimida
 wikipedia:
   extract: 'Bruce Frederick Joseph Springsteen (born September 23, 1949) is an American
     singer, songwriter, and musician who is both a solo artist and the leader of the

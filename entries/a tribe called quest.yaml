@@ -9,25 +9,22 @@ id: a tribe called quest
 language: en
 name: A Tribe Called Quest
 opinions:
-- mimida:
-    details: 台译：http://www.willmusic.com.tw/SalePage/Index/5349680?cid=290199
-    github_handler: mimida
-    translation: 探索一族
-    user_name: mimida
-- Tian-Tang:
-    details: Originally the group was just called Quest. After meeting the Jungle
-      Brothers, Afrika Baby Bam heard Q-Tip introduce himself on a demo track as being
-      "from a group called Quest" and told him to say he was from "a tribe called
-      Quest" and the name stuck.
-    github_handler: Tian-Tang
-    translation: 探索一族
-    user_name: Tian Tang
-- redhousepainter:
-    details: 台译很贴切了，就照着用。如果加注释的话可以说一下缘起：最早他们几个人取的乐团名只是一个单词quest。在制作【black is black】这首单曲时，前来造访的朋友提议在quest前面加上a
-      tribe called，正好完美无缺。
-    github_handler: redhousepainter
-    translation: 探索一族
-    user_name: redhousepainter
+- details: 台译：http://www.willmusic.com.tw/SalePage/Index/5349680?cid=290199
+  github_handler: mimida
+  translation: 探索一族
+  user_name: mimida
+- details: Originally the group was just called Quest. After meeting the Jungle Brothers,
+    Afrika Baby Bam heard Q-Tip introduce himself on a demo track as being "from a
+    group called Quest" and told him to say he was from "a tribe called Quest" and
+    the name stuck.
+  github_handler: Tian-Tang
+  translation: 探索一族
+  user_name: Tian Tang
+- details: 台译很贴切了，就照着用。如果加注释的话可以说一下缘起：最早他们几个人取的乐团名只是一个单词quest。在制作【black is black】这首单曲时，前来造访的朋友提议在quest前面加上a
+    tribe called，正好完美无缺。
+  github_handler: redhousepainter
+  translation: 探索一族
+  user_name: redhousepainter
 wikipedia:
   extract: A Tribe Called Quest was an American hip hop group formed in St. Albans,
     Queens, New York in 1985, originally composed of rapper and main producer Q-Tip,

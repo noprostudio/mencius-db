@@ -9,11 +9,10 @@ id: richard nixon
 language: en
 name: Richard Nixon
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 理查德·尼克松
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 理查德·尼克松
+  user_name: mimida
 wikipedia:
   extract: 'Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th
     president of the United States, serving from 1969 until 1974. The nation''s 36th

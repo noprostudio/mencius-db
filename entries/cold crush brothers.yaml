@@ -9,11 +9,10 @@ id: cold crush brothers
 language: en
 name: Cold Crush Brothers
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 冷碎兄弟
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 冷碎兄弟
+  user_name: mimida
 wikipedia:
   extract: 'The Cold Crush Brothers are an American hip hop group that formed in 1978
     in the Bronx, New York City, New York. They were especially known for their memorable

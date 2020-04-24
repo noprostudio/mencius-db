@@ -9,16 +9,14 @@ id: walk this way
 language: en
 name: Walk This Way
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 行此路
-    user_name: mimida
-- redhousepainter:
-    details: 之前有人直接翻：走这条路
-    github_handler: redhousepainter
-    translation: 走这边/勇往直前
-    user_name: redhousepainter
+- details: ''
+  github_handler: mimida
+  translation: 行此路
+  user_name: mimida
+- details: 之前有人直接翻：走这条路
+  github_handler: redhousepainter
+  translation: 走这边/勇往直前
+  user_name: redhousepainter
 wikipedia:
   extract: '"Walk This Way" is a song by the American hard rock band Aerosmith. Written
     by Steven Tyler and Joe Perry, the song was originally released as the second

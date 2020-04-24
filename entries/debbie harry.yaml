@@ -9,11 +9,10 @@ id: debbie harry
 language: en
 name: Debbie Harry
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 黛比·哈利
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 黛比·哈利
+  user_name: mimida
 wikipedia:
   extract: "Deborah Ann Harry (born Angela Trimble; July 1, 1945) is an American singer,\
     \ songwriter, model and actress, known as the lead singer of the new wave band\

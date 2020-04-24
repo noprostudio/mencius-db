@@ -9,11 +9,10 @@ id: pillow talk
 language: en
 name: Pillow Talk
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 枕边细语
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 枕边细语
+  user_name: mimida
 wikipedia:
   extract: 'Pillow talk is an intimate conversation between lovers which typically
     takes place in bed.

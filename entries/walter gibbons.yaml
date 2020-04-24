@@ -9,11 +9,10 @@ id: walter gibbons
 language: en
 name: Walter Gibbons
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 沃尔特·吉本斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 沃尔特·吉本斯
+  user_name: mimida
 wikipedia:
   extract: Walter Gibbons (April 2, 1954 – September 23, 1994) was an American record
     producer, early disco DJ, and remixer. He helped pioneer the remix and 12" single

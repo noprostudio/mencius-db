@@ -9,9 +9,8 @@ id: スペクトラム
 language: en
 name: スペクトラム
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 频谱
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 频谱
+  user_name: mimida
 wikipedia: null

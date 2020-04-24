@@ -9,11 +9,10 @@ id: grandmaster flash and the furious five
 language: en
 name: Grandmaster Flash and the Furious Five
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 闪耀大师与愤怒五人组
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 闪耀大师与愤怒五人组
+  user_name: mimida
 wikipedia:
   extract: "Grandmaster Flash and the Furious Five was an American hip hop group formed\
     \ in the South Bronx of New York City in 1978. The group's members were Grandmaster\

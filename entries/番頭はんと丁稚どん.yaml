@@ -9,9 +9,8 @@ id: 番頭はんと丁稚どん
 language: en
 name: 番頭はんと丁稚どん
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 掌柜和学徒
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 掌柜和学徒
+  user_name: mimida
 wikipedia: null

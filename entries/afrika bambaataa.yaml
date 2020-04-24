@@ -9,16 +9,14 @@ id: afrika bambaataa
 language: en
 name: Afrika Bambaataa
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 阿弗利卡·班巴塔
-    user_name: mimida
-- redhousepainter:
-    details: ''
-    github_handler: redhousepainter
-    translation: 非洲王班巴塔
-    user_name: redhousepainter
+- details: ''
+  github_handler: mimida
+  translation: 阿弗利卡·班巴塔
+  user_name: mimida
+- details: ''
+  github_handler: redhousepainter
+  translation: 非洲王班巴塔
+  user_name: redhousepainter
 wikipedia:
   extract: 'Afrika Bambaataa (; born Lance Taylor; April 17, 1957) is an American
     disc jockey, rapper, songwriter and producer from the South Bronx, New York. He

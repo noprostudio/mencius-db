@@ -9,16 +9,14 @@ id: funky president
 language: en
 name: Funky President
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 荒唐总统
-    user_name: mimida
-- Tian-Tang:
-    details: 这里，因为这首歌是批评总统的，所以funky应该理解成贬义的，滑稽，傻逼，胡闹的
-    github_handler: Tian-Tang
-    translation: '滑稽总统 '
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 荒唐总统
+  user_name: mimida
+- details: 这里，因为这首歌是批评总统的，所以funky应该理解成贬义的，滑稽，傻逼，胡闹的
+  github_handler: Tian-Tang
+  translation: '滑稽总统 '
+  user_name: Tian Tang
 wikipedia:
   extract: '"Funky President (People It''s Bad)"  is a funk song by James Brown. Released
     as a single in 1974, it charted #4 R&B. It also appeared on the album Reality.

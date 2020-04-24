@@ -9,11 +9,10 @@ id: wildstyle
 language: en
 name: Wildstyle
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 狂野风格
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 狂野风格
+  user_name: mimida
 wikipedia:
   extract: Wildstyle is a complicated and intricate form of graffiti. Due to its complexity,
     it is often very hard to read by people who are not familiar with it. Usually,

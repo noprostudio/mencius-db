@@ -9,11 +9,10 @@ id: hall & oates
 language: en
 name: Hall & Oates
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 霍尔和奥兹
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 霍尔和奥兹
+  user_name: mimida
 wikipedia:
   extract: 'In architecture, a hall is a relatively large space enclosed by a roof
     and walls. In the Iron Age and early Middle Ages in northern Europe, a mead hall

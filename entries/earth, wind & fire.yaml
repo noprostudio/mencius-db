@@ -9,9 +9,8 @@ id: earth, wind & fire
 language: en
 name: Earth, Wind & Fire
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 地风火
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 地风火
+  user_name: mimida
 wikipedia: null

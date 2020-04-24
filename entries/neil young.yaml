@@ -9,11 +9,10 @@ id: neil young
 language: en
 name: Neil Young
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 尼尔·扬
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 尼尔·扬
+  user_name: mimida
 wikipedia:
   extract: 'Neil Percival Young  (born November 12, 1945) is a Canadian-born singer-songwriter,
     multi-instrumentalist and self described activist. After embarking on a music

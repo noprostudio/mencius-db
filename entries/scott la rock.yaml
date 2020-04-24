@@ -9,11 +9,10 @@ id: scott la rock
 language: en
 name: Scott La Rock
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 斯科特·拉·洛克
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 斯科特·拉·洛克
+  user_name: mimida
 wikipedia:
   extract: Scott Monroe Sterling (March 2, 1962 – August 27, 1987), known by the stage
     name DJ Scott La Rock, was an American social worker, hip hop disc jockey, and

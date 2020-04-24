@@ -9,11 +9,10 @@ id: good times
 language: en
 name: Good Times
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 好时光
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 好时光
+  user_name: mimida
 wikipedia:
   extract: Good Times is an American sitcom television series that aired for six seasons
     on CBS, from February 8, 1974 to August 1, 1979. Created by Eric Monte and Mike

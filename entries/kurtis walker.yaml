@@ -9,9 +9,8 @@ id: kurtis walker
 language: en
 name: Kurtis Walker
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 柯蒂斯·沃克
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 柯蒂斯·沃克
+  user_name: mimida
 wikipedia: null

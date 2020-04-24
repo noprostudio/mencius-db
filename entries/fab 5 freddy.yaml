@@ -9,11 +9,10 @@ id: fab 5 freddy
 language: en
 name: Fab 5 Freddy
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 五绝·弗莱迪
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 五绝·弗莱迪
+  user_name: mimida
 wikipedia:
   extract: Fred Brathwaite (born August 31, 1959), more popularly known as Fab 5 Freddy,
     is an American visual artist, filmmaker, and hip hop pioneer.  He emerged in New

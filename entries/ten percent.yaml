@@ -9,11 +9,10 @@ id: ten percent
 language: en
 name: Ten Percent
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 百分之十
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 百分之十
+  user_name: mimida
 wikipedia:
   extract: Ten Percent is the debut studio album recorded by American male vocal quartet
     Double Exposure, released in 1976 on the Salsoul label.

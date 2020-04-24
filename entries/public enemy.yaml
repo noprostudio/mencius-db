@@ -9,11 +9,10 @@ id: public enemy
 language: en
 name: Public Enemy
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 全民公敌
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 全民公敌
+  user_name: mimida
 wikipedia:
   extract: 'The term public enemy was first widely used in the United States in the
     1930s to describe individuals whose activities were seen as criminal and extremely

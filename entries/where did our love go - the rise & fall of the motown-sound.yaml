@@ -9,9 +9,8 @@ id: where did our love go - the rise & fall of the motown-sound
 language: en
 name: Where Did Our Love Go - The Rise & Fall Of The Motown-Sound
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 我们的爱到哪儿去了？摩城之声兴衰史
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 我们的爱到哪儿去了？摩城之声兴衰史
+  user_name: mimida
 wikipedia: null

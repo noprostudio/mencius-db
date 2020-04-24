@@ -9,11 +9,10 @@ id: run-dmc
 language: en
 name: Run-DMC
 opinions:
-- redhousepainter:
-    details: 这个从来没人翻译过，直接用
-    github_handler: redhousepainter
-    translation: Run-DMC
-    user_name: redhousepainter
+- details: 这个从来没人翻译过，直接用
+  github_handler: redhousepainter
+  translation: Run-DMC
+  user_name: redhousepainter
 wikipedia:
   extract: Run-DMC was an American hip hop group from Hollis, Queens, New York, founded
     in 1983 by Joseph Simmons, Darryl McDaniels, and Jason Mizell. Run-DMC is regarded

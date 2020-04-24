@@ -9,11 +9,10 @@ id: confusion
 language: en
 name: Confusion
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 困惑
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 困惑
+  user_name: mimida
 wikipedia:
   extract: 'In medicine, confusion is the quality or state of being bewildered or
     unclear. The term "acute mental confusion" is often used interchangeably with

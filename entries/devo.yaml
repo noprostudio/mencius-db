@@ -9,11 +9,10 @@ id: devo
 language: en
 name: Devo
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 退化
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 退化
+  user_name: mimida
 wikipedia:
   extract: 'Devo (, originally ) is an American rock band from Akron, Ohio formed
     in 1973. Their classic lineup consisted of two sets of brothers, the Mothersbaughs

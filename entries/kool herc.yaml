@@ -9,16 +9,14 @@ id: kool herc
 language: en
 name: Kool Herc
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 库尔·赫克
-    user_name: mimida
-- Lil-Bag:
-    details: ''
-    github_handler: Lil-Bag
-    translation: 酷赫克
-    user_name: Lil Bag
+- details: ''
+  github_handler: mimida
+  translation: 库尔·赫克
+  user_name: mimida
+- details: ''
+  github_handler: Lil-Bag
+  translation: 酷赫克
+  user_name: Lil Bag
 wikipedia:
   extract: 'Clive Campbell (born April 16, 1955), better known by his stage name DJ
     Kool Herc, is a Jamaican DJ who is credited with helping originate hip hop music

@@ -9,11 +9,10 @@ id: 渡辺直樹
 language: jp
 name: 渡辺直樹
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 渡辺直树
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 渡辺直树
+  user_name: mimida
 wikipedia:
   extract: '渡辺 直樹、渡邊 直樹（わたなべ なおき）
 

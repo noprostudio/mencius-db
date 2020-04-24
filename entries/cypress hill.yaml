@@ -9,11 +9,10 @@ id: cypress hill
 language: en
 name: Cypress Hill
 opinions:
-- redhousepainter:
-    details: 国内一直是这么翻
-    github_handler: redhousepainter
-    translation: 柏树山
-    user_name: redhousepainter
+- details: 国内一直是这么翻
+  github_handler: redhousepainter
+  translation: 柏树山
+  user_name: redhousepainter
 wikipedia:
   extract: 'Cypress Hill is an American hip hop group from South Gate, California.
     Cypress Hill was the first Latino American hip hop recording group to have a star

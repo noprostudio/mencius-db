@@ -9,11 +9,10 @@ id: queen latifah
 language: en
 name: Queen Latifah
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 拉蒂法女皇
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 拉蒂法女皇
+  user_name: mimida
 wikipedia:
   extract: 'Dana Elaine Owens (born March 18, 1970), known professionally as Queen
     Latifah, is an American rapper, singer, songwriter, actress, and producer. Born

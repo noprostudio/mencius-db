@@ -9,11 +9,10 @@ id: gerald ford
 language: en
 name: Gerald Ford
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 杰拉尔德·福特
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 杰拉尔德·福特
+  user_name: mimida
 wikipedia:
   extract: 'Gerald Rudolph Ford Jr. (born Leslie Lynch King Jr.; July 14, 1913 – December
     26, 2006) was an American politician who served as the 38th president of the United

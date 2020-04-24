@@ -9,11 +9,10 @@ id: nile rodgers
 language: en
 name: Nile Rodgers
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 尼尔·罗杰斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 尼尔·罗杰斯
+  user_name: mimida
 wikipedia:
   extract: 'Nile Gregory Rodgers Jr. (born September 19, 1952) is an American guitarist,
     singer-songwriter, record producer, arranger and composer. The co-founder of Chic,

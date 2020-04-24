@@ -9,11 +9,10 @@ id: the last poets
 language: en
 name: The Last Poets
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 最后的诗人
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 最后的诗人
+  user_name: mimida
 wikipedia:
   extract: 'The Last Poets are several groups of poets and musicians who arose from
     the late 1960s African-American civil rights movement''s black nationalism. The

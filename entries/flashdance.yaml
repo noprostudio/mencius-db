@@ -9,11 +9,10 @@ id: flashdance
 language: en
 name: Flashdance
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 闪电舞
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 闪电舞
+  user_name: mimida
 wikipedia:
   extract: Flashdance is a 1983 American romantic drama film directed by Adrian Lyne
     and starring Jennifer Beals as a passionate young dancer who aspires to become

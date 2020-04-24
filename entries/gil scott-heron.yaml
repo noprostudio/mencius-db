@@ -9,11 +9,10 @@ id: gil scott-heron
 language: en
 name: Gil Scott-Heron
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 吉尔·斯科特-海隆
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 吉尔·斯科特-海隆
+  user_name: mimida
 wikipedia:
   extract: Gilbert Scott-Heron (April 1, 1949 – May 27, 2011) was an American soul
     and jazz poet, musician, and author, known primarily for his work as a spoken-word

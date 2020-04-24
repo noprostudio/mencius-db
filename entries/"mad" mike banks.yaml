@@ -9,11 +9,10 @@ id: '"mad" mike banks'
 language: en
 name: '"Mad" Mike Banks'
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: “疯子”麦克·班克斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: “疯子”麦克·班克斯
+  user_name: mimida
 wikipedia:
   extract: 'Michael Anthony Banks, better known as "Mad" Mike Banks, is an American
     record producer. He is the co-founder, along with Jeff Mills, of record label

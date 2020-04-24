@@ -9,11 +9,10 @@ id: double exposure
 language: en
 name: Double Exposure
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 双重曝光
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 双重曝光
+  user_name: mimida
 wikipedia:
   extract: 'Double exposure is a photographic technique in which two images are captured
     and combined into a single image.

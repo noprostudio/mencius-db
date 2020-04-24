@@ -9,11 +9,10 @@ id: jonathan lethem
 language: en
 name: Jonathan Lethem
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 乔纳森·勒瑟姆
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 乔纳森·勒瑟姆
+  user_name: mimida
 wikipedia:
   extract: Jonathan Allen Lethem (; born February 19, 1964) is an American novelist,
     essayist, and short story writer. His first novel, Gun, with Occasional Music,

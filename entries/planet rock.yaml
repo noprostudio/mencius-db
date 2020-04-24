@@ -9,20 +9,17 @@ id: planet rock
 language: en
 name: Planet Rock
 opinions:
-- mimida:
-    details: （All men, women, boys, and girls, hey our Planet Rock is superb. […]
-      You're in a place where the nights are hot Where nature's children dance and
-      set a chance On this Mother Earth, which is our rock. […] Rock rock to the Planet
-      Rock, don't stop. […] 从上面几句歌词来分析，应该是rock修饰planet，所以“摇滚星球/行星”可能比较贴切。Netflix《Hip
-      Hop Evolution》里是翻成星球）
-    github_handler: mimida
-    translation: 摇滚行星
-    user_name: mimida
-- Lil-Bag:
-    details: 总觉得“行星”这么构词有点别扭
-    github_handler: Lil-Bag
-    translation: 摇滚星球
-    user_name: Lil Bag
+- details: （All men, women, boys, and girls, hey our Planet Rock is superb. […] You're
+    in a place where the nights are hot Where nature's children dance and set a chance
+    On this Mother Earth, which is our rock. […] Rock rock to the Planet Rock, don't
+    stop. […] 从上面几句歌词来分析，应该是rock修饰planet，所以“摇滚星球/行星”可能比较贴切。Netflix《Hip Hop Evolution》里是翻成星球）
+  github_handler: mimida
+  translation: 摇滚行星
+  user_name: mimida
+- details: 总觉得“行星”这么构词有点别扭
+  github_handler: Lil-Bag
+  translation: 摇滚星球
+  user_name: Lil Bag
 wikipedia:
   extract: 'Planet Rock  may refer to:
 

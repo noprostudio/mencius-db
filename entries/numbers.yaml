@@ -9,11 +9,10 @@ id: numbers
 language: en
 name: Numbers
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 数字
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 数字
+  user_name: mimida
 wikipedia:
   extract: 'A number is a mathematical object used to count, measure, and label. The
     original examples are the natural numbers 1, 2, 3, 4, and so forth. For being

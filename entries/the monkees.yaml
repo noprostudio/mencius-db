@@ -9,11 +9,10 @@ id: the monkees
 language: en
 name: The Monkees
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 顽童
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 顽童
+  user_name: mimida
 wikipedia:
   extract: 'The Monkees are an American rock and pop band originally active between
     1966 and 1971, with reunion albums and tours in the decades that followed. Their

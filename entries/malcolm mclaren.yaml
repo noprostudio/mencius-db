@@ -9,11 +9,10 @@ id: malcolm mclaren
 language: en
 name: Malcolm McLaren
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 马尔科姆·麦克拉伦
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 马尔科姆·麦克拉伦
+  user_name: mimida
 wikipedia:
   extract: 'Malcolm Robert Andrew McLaren (22 January 1946 – 8 April 2010) was an
     English impresario, visual artist, performer, musician, clothes designer and boutique

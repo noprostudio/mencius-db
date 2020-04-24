@@ -9,11 +9,10 @@ id: colin powell
 language: en
 name: Colin Powell
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 科林·鲍威尔
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 科林·鲍威尔
+  user_name: mimida
 wikipedia:
   extract: 'Colin Luther Powell (; born April 5, 1937) is an American politician and
     retired four-star general in the United States Army. During his military career,

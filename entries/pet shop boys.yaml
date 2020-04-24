@@ -9,11 +9,10 @@ id: pet shop boys
 language: en
 name: Pet Shop Boys
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 宠物店男孩
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 宠物店男孩
+  user_name: mimida
 wikipedia:
   extract: 'Pet Shop Boys are an English synth-pop duo, formed in London in 1981 and
     consisting of Neil Tennant and Chris Lowe.

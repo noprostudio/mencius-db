@@ -9,11 +9,10 @@ id: madonna
 language: en
 name: Madonna
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 麦当娜
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 麦当娜
+  user_name: mimida
 wikipedia:
   extract: 'Madonna (from medieval Italian ma donna, meaning "my lady") most commonly
     refers to:

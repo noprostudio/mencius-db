@@ -9,14 +9,12 @@ id: ultimate breaks & beats
 language: en
 name: Ultimate Breaks & Beats
 opinions:
-- mimida:
-    details: 或者：终极间奏&乐段
-    github_handler: mimida
-    translation: 终极过门&伴奏
-    user_name: mimida
-- redhousepainter:
-    details: 这套总计25张专门用来采样的经典bootleg合集是当时Hip hop音乐人必听的，相当于中国小学生练习中文时必定要熟读唐诗三百首。用朴素的口吻翻成【终极间奏&乐段】挺好
-    github_handler: redhousepainter
-    translation: 终极间奏&乐段
-    user_name: redhousepainter
+- details: 或者：终极间奏&乐段
+  github_handler: mimida
+  translation: 终极过门&伴奏
+  user_name: mimida
+- details: 这套总计25张专门用来采样的经典bootleg合集是当时Hip hop音乐人必听的，相当于中国小学生练习中文时必定要熟读唐诗三百首。用朴素的口吻翻成【终极间奏&乐段】挺好
+  github_handler: redhousepainter
+  translation: 终极间奏&乐段
+  user_name: redhousepainter
 wikipedia: null

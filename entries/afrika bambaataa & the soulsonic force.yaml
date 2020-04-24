@@ -9,11 +9,10 @@ id: afrika bambaataa & the soulsonic force
 language: en
 name: Afrika Bambaataa & the Soulsonic Force
 opinions:
-- redhousepainter:
-    details: 直接音译也行，国内之前有的翻译叫：非洲王班巴塔与灵魂超音力
-    github_handler: redhousepainter
-    translation: 非洲王班巴塔与灵魂超音力
-    user_name: redhousepainter
+- details: 直接音译也行，国内之前有的翻译叫：非洲王班巴塔与灵魂超音力
+  github_handler: redhousepainter
+  translation: 非洲王班巴塔与灵魂超音力
+  user_name: redhousepainter
 wikipedia:
   extract: 'Afrika Bambaataa (; born Lance Taylor; April 17, 1957) is an American
     disc jockey, rapper, songwriter and producer from the South Bronx, New York. He

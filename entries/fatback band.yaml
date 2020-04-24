@@ -9,11 +9,10 @@ id: fatback band
 language: en
 name: Fatback Band
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 背膘乐队
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 背膘乐队
+  user_name: mimida
 wikipedia:
   extract: The Fatback Band (later, simply Fatback) is an American funk and disco
     band that was popular in the 1970s and 1980s. The Fatback Band is most known for

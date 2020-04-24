@@ -9,9 +9,8 @@ id: 梅本幸雄
 language: jp
 name: 梅本幸雄
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 梅本幸雄
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 梅本幸雄
+  user_name: mimida
 wikipedia: null

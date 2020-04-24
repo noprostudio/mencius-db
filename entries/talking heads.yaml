@@ -9,11 +9,10 @@ id: talking heads
 language: en
 name: Talking Heads
 opinions:
-- mimida:
-    details: https://www.neatorama.com/2009/04/08/music-tidbits-talking-heads/
-    github_handler: mimida
-    translation: 头部特写
-    user_name: mimida
+- details: https://www.neatorama.com/2009/04/08/music-tidbits-talking-heads/
+  github_handler: mimida
+  translation: 头部特写
+  user_name: mimida
 wikipedia:
   extract: 'Talking Heads were an American rock band formed in 1975 in New York City
     and active until 1991. The band comprised David Byrne (lead vocals, guitar), Chris

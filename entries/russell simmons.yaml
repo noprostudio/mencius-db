@@ -9,11 +9,10 @@ id: russell simmons
 language: en
 name: Russell Simmons
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 拉塞尔·西蒙斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 拉塞尔·西蒙斯
+  user_name: mimida
 wikipedia:
   extract: Russell Wendell Simmons (born October 4, 1957) is an American entrepreneur,
     record executive, writer, and film producer. He is chairman and CEO of Rush Communications,

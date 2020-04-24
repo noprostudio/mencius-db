@@ -9,22 +9,19 @@ id: the game
 language: en
 name: The Game
 opinions:
-- mimida:
-    details: 来源：https://www.billboard.com/articles/columns/the-juice/1555884/20-stories-behind-rappers-stage-names-waka-flocka-jay-z-more
-    github_handler: mimida
-    translation: 游戏
-    user_name: mimida
-- Tian-Tang:
-    details: The Game (全称带the）另，随便一说，在黑哥世界，他们总描述自己的生活，像是一个game，不能直说游戏，在The Wire里，他们举了个例子，就像国际象棋（chess
-      game），游戏里存在着规则，也存在着生存和死亡。。你不遵守规则，就玩不下去，您没走好一步，面临的就是出局。这有一丝丝中文世界里“江湖”的感觉。
-    github_handler: Tian-Tang
-    translation: The Game
-    user_name: Tian Tang
-- Lil-Bag:
-    details: 台湾叫“游戏玩家” 我觉得不够劲儿，还不如游戏
-    github_handler: Lil-Bag
-    translation: 游戏
-    user_name: Lil Bag
+- details: 来源：https://www.billboard.com/articles/columns/the-juice/1555884/20-stories-behind-rappers-stage-names-waka-flocka-jay-z-more
+  github_handler: mimida
+  translation: 游戏
+  user_name: mimida
+- details: The Game (全称带the）另，随便一说，在黑哥世界，他们总描述自己的生活，像是一个game，不能直说游戏，在The Wire里，他们举了个例子，就像国际象棋（chess
+    game），游戏里存在着规则，也存在着生存和死亡。。你不遵守规则，就玩不下去，您没走好一步，面临的就是出局。这有一丝丝中文世界里“江湖”的感觉。
+  github_handler: Tian-Tang
+  translation: The Game
+  user_name: Tian Tang
+- details: 台湾叫“游戏玩家” 我觉得不够劲儿，还不如游戏
+  github_handler: Lil-Bag
+  translation: 游戏
+  user_name: Lil Bag
 wikipedia:
   extract: 'The Game or The Games may refer to:
 

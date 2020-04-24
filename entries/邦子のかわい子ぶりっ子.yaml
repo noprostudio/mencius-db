@@ -9,9 +9,8 @@ id: 邦子のかわい子ぶりっ子
 language: en
 name: 邦子のかわい子ぶりっ子
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 邦子的装可爱的孩子
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 邦子的装可爱的孩子
+  user_name: mimida
 wikipedia: null

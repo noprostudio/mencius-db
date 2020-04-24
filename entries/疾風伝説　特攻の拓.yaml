@@ -9,11 +9,10 @@ id: 疾風伝説　特攻の拓
 language: jp
 name: 疾風伝説　特攻の拓
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 疾风传说 特攻之拓
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 疾风传说 特攻之拓
+  user_name: mimida
 wikipedia:
   extract: 『疾風伝説 特攻の拓』（かぜでんせつ ぶっこみのたく）は、原作：佐木飛朗斗、作画：所十三による日本の漫画作品。1991年から1997年まで、『週刊少年マガジン』（講談社）にて連載された。題名の「かぜ」「ぶっこみ」は当て字読み。
   ns: 0

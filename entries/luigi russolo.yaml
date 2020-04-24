@@ -9,11 +9,10 @@ id: luigi russolo
 language: en
 name: Luigi Russolo
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 鲁索洛
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 鲁索洛
+  user_name: mimida
 wikipedia:
   extract: Luigi Carlo Filippo Russolo (30 April 1885 – 6 February 1947) was an Italian
     Futurist painter, composer, builder of experimental musical instruments, and the

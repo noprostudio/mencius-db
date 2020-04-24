@@ -9,11 +9,10 @@ id: mikiko
 language: en
 name: MIKIKO
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: MIKIKO
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: MIKIKO
+  user_name: mimida
 wikipedia:
   extract: 'Mikiko (written: 幹子, 美樹子, 美起子, 美紀子, 美希子 or みきこ in hiragana) is a feminine
     Japanese given name. Notable people with the name include:

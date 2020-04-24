@@ -9,11 +9,10 @@ id: irene cara
 language: en
 name: Irene Cara
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 艾琳·卡拉
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 艾琳·卡拉
+  user_name: mimida
 wikipedia:
   extract: Irene Cara Escalera (born March 18, 1959) known professionally as Irene
     Cara, is an American singer, songwriter, dancer and actress. Cara sang and co-wrote

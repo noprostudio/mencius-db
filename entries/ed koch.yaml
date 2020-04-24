@@ -9,11 +9,10 @@ id: ed koch
 language: en
 name: Ed Koch
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 郭德华
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 郭德华
+  user_name: mimida
 wikipedia:
   extract: 'Edward Irving Koch ( KOTCH; December 12, 1924 – February 1, 2013) was
     an American politician, lawyer, political commentator, film critic, and television

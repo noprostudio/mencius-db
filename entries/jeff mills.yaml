@@ -9,11 +9,10 @@ id: jeff mills
 language: en
 name: Jeff Mills
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 杰夫·米尔斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 杰夫·米尔斯
+  user_name: mimida
 wikipedia:
   extract: 'Jeff Mills (born June 18, 1963, in Detroit, Michigan) is an American DJ,
     record producer and composer. Thanks to his technical abilities as a DJ, Mills

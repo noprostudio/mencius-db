@@ -9,11 +9,10 @@ id: mark dery
 language: en
 name: Mark Dery
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 马克·德里
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 马克·德里
+  user_name: mimida
 wikipedia:
   extract: 'Mark Dery (born December 24, 1959) is an American author, lecturer and
     cultural critic. An early observer and critic of online culture, he helped to

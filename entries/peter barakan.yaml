@@ -9,11 +9,10 @@ id: peter barakan
 language: en
 name: Peter Barakan
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 彼得·巴拉坎
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 彼得·巴拉坎
+  user_name: mimida
 wikipedia:
   extract: Peter Barakan is an English-born DJ and broadcaster in Japan, the host
     of "Barakan Beat" on InterFM  and "Weekend Sunshine" on NHK FM. He also hosts

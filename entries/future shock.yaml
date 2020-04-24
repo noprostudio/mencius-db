@@ -9,11 +9,10 @@ id: future shock
 language: en
 name: Future Shock
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 未来震撼
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 未来震撼
+  user_name: mimida
 wikipedia:
   extract: 'Future Shock is a 1970 book by the futurist Alvin Toffler,in which the
     author defines the term "future shock" as a certain psychological state of individuals

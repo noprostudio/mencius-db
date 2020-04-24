@@ -9,16 +9,14 @@ id: the chronic
 language: en
 name: The Chronic
 opinions:
-- mimida:
-    details: Netflix翻译
-    github_handler: mimida
-    translation: 好货色
-    user_name: mimida
-- Lil-Bag:
-    details: 多年以来的固定翻译，不用管准不准
-    github_handler: Lil-Bag
-    translation: 慢性
-    user_name: Lil Bag
+- details: Netflix翻译
+  github_handler: mimida
+  translation: 好货色
+  user_name: mimida
+- details: 多年以来的固定翻译，不用管准不准
+  github_handler: Lil-Bag
+  translation: 慢性
+  user_name: Lil Bag
 wikipedia:
   extract: "The Chronic is the debut studio album by American hip hop producer and\
     \ rapper Dr. Dre. It was released on December 15, 1992, by his own record label\

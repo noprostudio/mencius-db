@@ -9,11 +9,10 @@ id: noreaga
 language: en
 name: Noreaga
 opinions:
-- Lil-Bag:
-    details: ''
-    github_handler: Lil-Bag
-    translation: 诺列加
-    user_name: Lil Bag
+- details: ''
+  github_handler: Lil-Bag
+  translation: 诺列加
+  user_name: Lil Bag
 wikipedia:
   extract: 'Victor Santiago, Jr. (born September 6, 1977), better known by his stage
     name N.O.R.E., or Noreaga, is an American rapper, actor and media personality.

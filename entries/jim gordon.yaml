@@ -9,11 +9,10 @@ id: jim gordon
 language: en
 name: Jim Gordon
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 吉姆·哥顿
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 吉姆·哥顿
+  user_name: mimida
 wikipedia:
   extract: 'James or Jim Gordon may refer to:'
   ns: 0

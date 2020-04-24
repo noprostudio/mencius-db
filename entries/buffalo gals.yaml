@@ -9,11 +9,10 @@ id: buffalo gals
 language: en
 name: Buffalo Gals
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 水牛城女孩
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 水牛城女孩
+  user_name: mimida
 wikipedia:
   extract: '"Buffalo Gals" is a traditional American song, written and published as
     "Lubly Fan" in 1844 by the blackface minstrel John Hodges, who performed as "Cool

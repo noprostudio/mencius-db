@@ -9,9 +9,8 @@ id: アパッチ野球軍
 language: en
 name: アパッチ野球軍
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 阿帕奇棒球队
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 阿帕奇棒球队
+  user_name: mimida
 wikipedia: null

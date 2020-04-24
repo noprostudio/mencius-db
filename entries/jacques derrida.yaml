@@ -9,11 +9,10 @@ id: jacques derrida
 language: en
 name: Jacques Derrida
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 雅克·德里达
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 雅克·德里达
+  user_name: mimida
 wikipedia:
   extract: 'Jacques Derrida (; French: [ʒak dɛʁida]; born Jackie Élie Derrida; July
     15, 1930 – October 9, 2004) was an Algerian-born French philosopher best known

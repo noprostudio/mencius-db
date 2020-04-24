@@ -9,11 +9,10 @@ id: cyndi lauper
 language: en
 name: Cyndi Lauper
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 辛迪·劳帕
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 辛迪·劳帕
+  user_name: mimida
 wikipedia:
   extract: 'Cynthia Ann Stephanie Lauper (born June 22, 1953) is an American singer,
     songwriter, actress and activist. Her career has spanned over 40 years. Her album

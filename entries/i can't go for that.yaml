@@ -9,11 +9,10 @@ id: i can't go for that
 language: en
 name: I Can't Go For That
 opinions:
-- Tian-Tang:
-    details: 或：我办不到 / 无法苟同
-    github_handler: Tian-Tang
-    translation: '我做不到 '
-    user_name: Tian Tang
+- details: 或：我办不到 / 无法苟同
+  github_handler: Tian-Tang
+  translation: '我做不到 '
+  user_name: Tian Tang
 wikipedia:
   extract: '"I Can''t Go for That (No Can Do)" is a song by the American duo Daryl
     Hall and John Oates. Written by Daryl Hall and John Oates, and co-written by Sara

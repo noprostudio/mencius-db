@@ -9,16 +9,14 @@ id: the fearless four
 language: en
 name: The Fearless Four
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 无畏四人组
-    user_name: mimida
-- Tian-Tang:
-    details: ''
-    github_handler: Tian-Tang
-    translation: 四无畏
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 无畏四人组
+  user_name: mimida
+- details: ''
+  github_handler: Tian-Tang
+  translation: 四无畏
+  user_name: Tian Tang
 wikipedia:
   extract: 'The Fearless Four may refer to:
 

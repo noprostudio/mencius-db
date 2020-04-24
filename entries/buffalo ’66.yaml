@@ -9,11 +9,10 @@ id: buffalo ’66
 language: en
 name: Buffalo ’66
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 水牛城66
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 水牛城66
+  user_name: mimida
 wikipedia:
   extract: 'Buffalo ''66 is a 1998 crime comedy-drama film written and directed by
     Vincent Gallo, starring Gallo, Christina Ricci,  Mickey Rourke, Rosanna Arquette,

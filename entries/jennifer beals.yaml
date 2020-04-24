@@ -9,11 +9,10 @@ id: jennifer beals
 language: en
 name: Jennifer Beals
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 詹妮弗·比尔斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 詹妮弗·比尔斯
+  user_name: mimida
 wikipedia:
   extract: 'Jennifer Beals (born December 19, 1963) is an American actress and a former
     teen model. She made her film debut in My Bodyguard (1980), before receiving critical

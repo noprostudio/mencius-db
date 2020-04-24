@@ -9,11 +9,10 @@ id: the sugarhill gang
 language: en
 name: The Sugarhill Gang
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 糖山帮
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 糖山帮
+  user_name: mimida
 wikipedia:
   extract: The Sugarhill Gang is an American hip hop trio. Their 1979 hit "Rapper's
     Delight" was the first rap single to become a Top 40 hit on the Billboard Hot

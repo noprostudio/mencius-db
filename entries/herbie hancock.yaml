@@ -9,11 +9,10 @@ id: herbie hancock
 language: en
 name: Herbie Hancock
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 赫比·汉考克
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 赫比·汉考克
+  user_name: mimida
 wikipedia:
   extract: 'Herbert Jeffrey Hancock (born April 12, 1940) is an American pianist,
     keyboardist, bandleader, composer and actor. Hancock started his career with Donald

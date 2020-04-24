@@ -9,11 +9,10 @@ id: the beatles
 language: en
 name: The Beatles
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 披头士
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 披头士
+  user_name: mimida
 wikipedia:
   extract: 'The Beatles were an English rock band formed in Liverpool in 1960. With
     a line-up comprising John Lennon, Paul McCartney, George Harrison and Ringo Starr,

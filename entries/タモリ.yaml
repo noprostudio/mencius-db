@@ -9,11 +9,10 @@ id: タモリ
 language: en
 name: タモリ
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 塔摩利
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 塔摩利
+  user_name: mimida
 wikipedia:
   extract: Kazuyoshi Morita (森田 一義, Morita Kazuyoshi, born 22 August 1945 in Fukuoka
     City, Fukuoka Prefecture), known by his stage name Tamori (タモリ) (an anagram of

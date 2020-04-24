@@ -9,16 +9,14 @@ id: big bam boom
 language: en
 name: Big Bam Boom
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 乒铃乓啷
-    user_name: mimida
-- Tian-Tang:
-    details: bam boom是鼓点的拟声词
-    github_handler: Tian-Tang
-    translation: 噪很大
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 乒铃乓啷
+  user_name: mimida
+- details: bam boom是鼓点的拟声词
+  github_handler: Tian-Tang
+  translation: 噪很大
+  user_name: Tian Tang
 wikipedia:
   extract: 'Big Bam Boom is the twelfth studio album by Daryl Hall & John Oates, released
     by RCA Records on October 12, 1984. It marked the end of one of the most successful

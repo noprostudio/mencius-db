@@ -9,11 +9,10 @@ id: n.w.a
 language: en
 name: N.W.A
 opinions:
-- mimida:
-    details: 展开来是“有态度的黑鬼”
-    github_handler: mimida
-    translation: N.W.A
-    user_name: mimida
+- details: 展开来是“有态度的黑鬼”
+  github_handler: mimida
+  translation: N.W.A
+  user_name: mimida
 wikipedia:
   extract: 'N.W.A (an abbreviation for Niggaz Wit Attitudes) was an American hip hop
     group from Compton, California. They were among the earliest and most significant

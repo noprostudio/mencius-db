@@ -9,11 +9,10 @@ id: k-rob
 language: en
 name: K-Rob
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: K-罗布
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: K-罗布
+  user_name: mimida
 wikipedia:
   extract: Malik Johnson, better known as K-Rob, is an American rapper, most famous
     for providing vocals for "Beat Bop" with Rammellzee in 1983 and "I'm a Homeboy",

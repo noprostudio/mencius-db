@@ -9,11 +9,10 @@ id: love is strange
 language: en
 name: Love Is Strange
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 奇怪的爱
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 奇怪的爱
+  user_name: mimida
 wikipedia:
   extract: '"Love Is Strange" is a crossover hit by American rhythm and blues duet
     Mickey & Sylvia, which was released in late November 1956 by the Groove record

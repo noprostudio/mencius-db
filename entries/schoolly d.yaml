@@ -9,11 +9,10 @@ id: schoolly d
 language: en
 name: Schoolly D
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 斯酷利·D
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 斯酷利·D
+  user_name: mimida
 wikipedia:
   extract: Jesse Bonds Weaver Jr. (born June 22, 1962), better known by the stage
     name Schoolly D (sometimes spelled Schooly D), is an American rapper from Philadelphia,

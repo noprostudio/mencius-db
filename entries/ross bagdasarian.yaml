@@ -9,11 +9,10 @@ id: ross bagdasarian
 language: en
 name: Ross Bagdasarian
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 罗斯·巴格达萨里安
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 罗斯·巴格达萨里安
+  user_name: mimida
 wikipedia:
   extract: Rostom Sipan "Ross" Bagdasarian (; January 27, 1919 – January 16, 1972),
     known professionally by his stage name David Seville, was an American singer-songwriter,

@@ -9,11 +9,10 @@ id: beat street
 language: en
 name: Beat Street
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 热街小子
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 热街小子
+  user_name: mimida
 wikipedia:
   extract: Beat Street is a 1984 American drama dance film featuring New York City
     hip hop culture of the early 1980s, breakdancing, DJing, and graffiti.

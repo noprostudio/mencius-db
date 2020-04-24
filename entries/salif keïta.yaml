@@ -9,11 +9,10 @@ id: salif keïta
 language: en
 name: Salif Keïta
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 萨利夫·凯塔
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 萨利夫·凯塔
+  user_name: mimida
 wikipedia:
   extract: 'Salif Keita (born 1949) is a Malian singer-songwriter.
 

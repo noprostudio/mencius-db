@@ -9,11 +9,10 @@ id: the brand new heavies
 language: en
 name: The Brand New Heavies
 opinions:
-- mimida:
-    details: 台译：https://www.ccr.com.tw/Artist/47554
-    github_handler: mimida
-    translation: 新重骑兵
-    user_name: mimida
+- details: 台译：https://www.ccr.com.tw/Artist/47554
+  github_handler: mimida
+  translation: 新重骑兵
+  user_name: mimida
 wikipedia:
   extract: The Brand New Heavies are an acid jazz and funk group formed in 1985 in
     Ealing in west London. Centered around songwriters/multi-instrumentalists Simon

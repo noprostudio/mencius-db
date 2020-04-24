@@ -9,11 +9,10 @@ id: larry levan
 language: en
 name: Larry Levan
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 拉里·莱文
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 拉里·莱文
+  user_name: mimida
 wikipedia:
   extract: Larry Levan (; born Lawrence Philpot, July 20, 1954 – November 8, 1992)
     was an American DJ best known for his decade-long residency at the New York City

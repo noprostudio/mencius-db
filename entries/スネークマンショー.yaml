@@ -9,9 +9,8 @@ id: スネークマンショー
 language: en
 name: スネークマンショー
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 蛇人秀
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 蛇人秀
+  user_name: mimida
 wikipedia: null

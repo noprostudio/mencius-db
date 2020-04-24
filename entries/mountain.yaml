@@ -9,11 +9,10 @@ id: mountain
 language: en
 name: Mountain
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 山峦
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 山峦
+  user_name: mimida
 wikipedia:
   extract: 'A mountain is a large landform that rises above the surrounding land in
     a limited area, usually in the form of a peak. A mountain is generally steeper

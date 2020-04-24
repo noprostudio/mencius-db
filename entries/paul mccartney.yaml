@@ -9,11 +9,10 @@ id: paul mccartney
 language: en
 name: Paul McCartney
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 保罗·麦卡特尼
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 保罗·麦卡特尼
+  user_name: mimida
 wikipedia:
   extract: 'Sir James Paul McCartney  (born 18 June 1942) is an English singer, songwriter,
     musician, composer, and record and film producer who gained worldwide fame as

@@ -9,11 +9,10 @@ id: whitney houston
 language: en
 name: Whitney Houston
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 惠特尼·休斯顿
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 惠特尼·休斯顿
+  user_name: mimida
 wikipedia:
   extract: 'Whitney Elizabeth Houston (August 9, 1963 – February 11, 2012) was an
     American singer and actress. She was cited as the most awarded female artist of

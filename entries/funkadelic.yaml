@@ -9,11 +9,10 @@ id: funkadelic
 language: en
 name: Funkadelic
 opinions:
-- mimida:
-    details: 港译：https://books.google.de/books?id=C03kDQAAQBAJ&pg=PA123&lpg=PA123&dq=Funkadelic+%E6%94%BE%E5%85%8B%E7%96%AF&source=bl&ots=baCCTMIYfq&sig=ACfU3U21uF8kOZAwuxy4fYuto9sEJbgkCw&hl=zh-CN&sa=X&ved=2ahUKEwiBvJqdmufiAhUSZlAKHdCEANAQ6AEwB3oECAkQAQ#v=onepage&q=Funkadelic%20%E6%94%BE%E5%85%8B%E7%96%AF&f=false
-    github_handler: mimida
-    translation: 放克疯
-    user_name: mimida
+- details: 港译：https://books.google.de/books?id=C03kDQAAQBAJ&pg=PA123&lpg=PA123&dq=Funkadelic+%E6%94%BE%E5%85%8B%E7%96%AF&source=bl&ots=baCCTMIYfq&sig=ACfU3U21uF8kOZAwuxy4fYuto9sEJbgkCw&hl=zh-CN&sa=X&ved=2ahUKEwiBvJqdmufiAhUSZlAKHdCEANAQ6AEwB3oECAkQAQ#v=onepage&q=Funkadelic%20%E6%94%BE%E5%85%8B%E7%96%AF&f=false
+  github_handler: mimida
+  translation: 放克疯
+  user_name: mimida
 wikipedia:
   extract: Funkadelic was an American band formed in 1968 and active until 1982. The
     band and its sister act Parliament, both led by George Clinton, pioneered the

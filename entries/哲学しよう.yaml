@@ -9,9 +9,8 @@ id: 哲学しよう
 language: en
 name: 哲学しよう
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 哲学起来
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 哲学起来
+  user_name: mimida
 wikipedia: null

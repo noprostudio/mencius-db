@@ -9,11 +9,10 @@ id: cowboy
 language: en
 name: Cowboy
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 牛仔
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 牛仔
+  user_name: mimida
 wikipedia:
   extract: 'A cowboy is an animal herder who tends cattle on ranches in North America,
     traditionally on horseback, and often performs a multitude of other ranch-related

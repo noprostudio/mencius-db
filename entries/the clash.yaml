@@ -9,11 +9,10 @@ id: the clash
 language: en
 name: The Clash
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 冲撞
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 冲撞
+  user_name: mimida
 wikipedia:
   extract: 'The Clash were an English rock band formed in London in 1976 as a key
     player in the original wave of British punk rock. They also contributed to the

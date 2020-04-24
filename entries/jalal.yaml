@@ -9,11 +9,10 @@ id: jalal
 language: en
 name: Jalal
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 贾拉尔
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 贾拉尔
+  user_name: mimida
 wikipedia:
   extract: 'Jalal (Arabic: جلال), a masculine name, means majesty, dignity, lordliness,
     and glory. Because of its majestic and glorious meanings, Jalal is used as an

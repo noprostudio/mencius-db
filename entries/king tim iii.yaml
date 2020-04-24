@@ -9,11 +9,10 @@ id: king tim iii
 language: en
 name: King Tim III
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 提姆王三世
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 提姆王三世
+  user_name: mimida
 wikipedia:
   extract: '"King Tim III (Personality Jock)" is a 1979 song by the Fatback Band from
     the disco album XII. Released on March 25, 1979, a few months before "Rapper''s

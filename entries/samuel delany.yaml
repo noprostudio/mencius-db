@@ -9,11 +9,10 @@ id: samuel delany
 language: en
 name: Samuel Delany
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 塞缪尔·德兰尼
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 塞缪尔·德兰尼
+  user_name: mimida
 wikipedia:
   extract: 'Samuel R. Delany (; born April 1, 1942), Chip Delany to his friends, is
     an American author and literary critic. His work includes fiction (especially

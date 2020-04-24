@@ -9,11 +9,10 @@ id: michael viner
 language: en
 name: Michael Viner
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 迈克尔·维纳
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 迈克尔·维纳
+  user_name: mimida
 wikipedia:
   extract: Michael Ames Viner ( VEE-nər; February 27, 1944 – August 8, 2009) was an
     American film producer and record producer, who later shifted into book publishing

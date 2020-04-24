@@ -9,16 +9,14 @@ id: yo! mtv raps
 language: en
 name: Yo! MTV Raps
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 唷！MTV说唱
-    user_name: mimida
-- Lil-Bag:
-    details: 换成中文的不管哪个唷都太别扭哈哈
-    github_handler: Lil-Bag
-    translation: YO!MTV说唱
-    user_name: Lil Bag
+- details: ''
+  github_handler: mimida
+  translation: 唷！MTV说唱
+  user_name: mimida
+- details: 换成中文的不管哪个唷都太别扭哈哈
+  github_handler: Lil-Bag
+  translation: YO!MTV说唱
+  user_name: Lil Bag
 wikipedia:
   extract: 'Yo! MTV Raps is a two-hour television music video program, which first
     aired on MTV Europe from 1987 to mid-90s and on MTV US from August 1988 to August

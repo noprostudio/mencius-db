@@ -9,9 +9,8 @@ id: ブラック・ミュージック アフリカから世界へ
 language: en
 name: ブラック・ミュージック アフリカから世界へ
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 黑人音乐：从非洲走向世界
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 黑人音乐：从非洲走向世界
+  user_name: mimida
 wikipedia: null

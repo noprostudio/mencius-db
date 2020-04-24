@@ -9,11 +9,10 @@ id: blondie
 language: en
 name: Blondie
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 金发美女
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 金发美女
+  user_name: mimida
 wikipedia:
   extract: 'Blondie is a term sometimes used to refer to a person with blond hair.  Blondie
     may also refer to:'

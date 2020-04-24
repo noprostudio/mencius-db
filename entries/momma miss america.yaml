@@ -9,11 +9,10 @@ id: momma miss america
 language: en
 name: Momma Miss America
 opinions:
-- Tian-Tang:
-    details: momma是一个俗语，跟中国管人叫美女一个意思
-    github_handler: Tian-Tang
-    translation: 漂亮的美国小姐
-    user_name: Tian Tang
+- details: momma是一个俗语，跟中国管人叫美女一个意思
+  github_handler: Tian-Tang
+  translation: 漂亮的美国小姐
+  user_name: Tian Tang
 wikipedia:
   extract: 'McCartney is the debut solo album by English musician Paul McCartney,
     released on 17 April 1970 by Apple Records. He recorded the album in secrecy,

@@ -9,16 +9,14 @@ id: the treacherous three
 language: en
 name: The Treacherous Three
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 反叛三人组
-    user_name: mimida
-- Tian-Tang:
-    details: ''
-    github_handler: Tian-Tang
-    translation: 三骗徒
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 反叛三人组
+  user_name: mimida
+- details: ''
+  github_handler: Tian-Tang
+  translation: 三骗徒
+  user_name: Tian Tang
 wikipedia:
   extract: The Treacherous Three was a pioneering hip hop group that was formed in
     1978 and consisted of DJ Easy Lee, Kool Moe Dee, L.A. Sunshine, Special K and

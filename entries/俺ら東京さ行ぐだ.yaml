@@ -9,9 +9,8 @@ id: 俺ら東京さ行ぐだ
 language: en
 name: 俺ら東京さ行ぐだ
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 俺要去东京
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 俺要去东京
+  user_name: mimida
 wikipedia: null

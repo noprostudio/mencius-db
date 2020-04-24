@@ -9,11 +9,10 @@ id: tricia rose
 language: en
 name: Tricia Rose
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 崔西亚·罗丝
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 崔西亚·罗丝
+  user_name: mimida
 wikipedia:
   extract: Tricia Rose (born 1962) is an American sociologist and author who pioneered
     scholarship on hip hop. Her studies mainly probe the intersectionality of pop

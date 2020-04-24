@@ -9,11 +9,10 @@ id: incognito
 language: en
 name: Incognito
 opinions:
-- mimida:
-    details: 台译：https://www.ccr.com.tw/Artist/15604
-    github_handler: mimida
-    translation: 匿名者
-    user_name: mimida
+- details: 台译：https://www.ccr.com.tw/Artist/15604
+  github_handler: mimida
+  translation: 匿名者
+  user_name: mimida
 wikipedia:
   extract: 'Incognito may refer to:'
   ns: 0

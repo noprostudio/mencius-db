@@ -9,11 +9,10 @@ id: buffalo springfield
 language: en
 name: Buffalo Springfield
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 水牛春田
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 水牛春田
+  user_name: mimida
 wikipedia:
   extract: 'Buffalo Springfield was a Canadian-American rock band active from 1966
     to 1968 whose most prominent members were Stephen Stills, Neil Young, and Richie

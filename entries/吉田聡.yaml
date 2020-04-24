@@ -9,11 +9,10 @@ id: 吉田聡
 language: jp
 name: 吉田聡
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 吉田聪
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 吉田聪
+  user_name: mimida
 wikipedia:
   extract: 吉田 聡（よしだ さとし、1960年12月8日 - ）は、日本の漫画家。福岡県生まれ、神奈川県藤沢市辻堂出身。血液型B型。苗字の「吉」の正確な表記は「𠮷」（「土」の下に「口」、つちよし）である。
   ns: 0

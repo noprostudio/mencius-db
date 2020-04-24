@@ -9,11 +9,10 @@ id: tom silverman
 language: en
 name: Tom Silverman
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 汤姆·希维尔曼
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 汤姆·希维尔曼
+  user_name: mimida
 wikipedia:
   extract: Tom Silverman is an American entertainment executive. He is most notable
     for founding the pioneering hip-hop and electro-funk music label, Tommy Boy Records,

@@ -9,11 +9,10 @@ id: ホットロード
 language: en
 name: ホットロード
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 热血之路
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 热血之路
+  user_name: mimida
 wikipedia:
   extract: Hot Road (ホットロード) is a Japanese manga series written and illustrated by
     Taku Tsumugi (紡木たく). It was adapted into a live action film that was released

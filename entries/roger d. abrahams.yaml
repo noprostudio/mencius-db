@@ -9,11 +9,10 @@ id: roger d. abrahams
 language: en
 name: Roger D. Abrahams
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 罗杰·D·亚伯拉罕
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 罗杰·D·亚伯拉罕
+  user_name: mimida
 wikipedia:
   extract: 'Roger David Abrahams (June 12, 1933 – June 20, 2017) was an American folklorist
     whose work focused on the expressive cultures and cultural histories of the Americas,

@@ -9,16 +9,14 @@ id: arthur russell
 language: en
 name: Arthur Russell
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 亚瑟·拉塞尔
-    user_name: mimida
-- Tian-Tang:
-    details: ''
-    github_handler: Tian-Tang
-    translation: 亚瑟·罗素
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 亚瑟·拉塞尔
+  user_name: mimida
+- details: ''
+  github_handler: Tian-Tang
+  translation: 亚瑟·罗素
+  user_name: Tian Tang
 wikipedia:
   extract: 'Arthur Russell may refer to:
 

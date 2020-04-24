@@ -9,11 +9,10 @@ id: tommy james and the shondells
 language: en
 name: Tommy James and the Shondells
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 汤米·詹姆斯与商黛尔一家
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 汤米·詹姆斯与商黛尔一家
+  user_name: mimida
 wikipedia:
   extract: 'Tommy James and the Shondells are an American rock band, formed in Niles,
     Michigan in 1964. They had two No. 1 singles in the U.S., "Hanky Panky" (July

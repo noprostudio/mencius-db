@@ -9,11 +9,10 @@ id: underground resistance
 language: en
 name: Underground Resistance
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 地下抵抗
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 地下抵抗
+  user_name: mimida
 wikipedia:
   extract: Underground Resistance (commonly abbreviated to UR) are a musical collective
     from Detroit, Michigan, United States. Producing primarily Detroit techno since

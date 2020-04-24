@@ -9,16 +9,14 @@ id: hustlers convention
 language: en
 name: Hustlers Convention
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 混混集会
-    user_name: mimida
-- Tian-Tang:
-    details: ''
-    github_handler: Tian-Tang
-    translation: 大盗集会 / 混子大会
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 混混集会
+  user_name: mimida
+- details: ''
+  github_handler: Tian-Tang
+  translation: 大盗集会 / 混子大会
+  user_name: Tian Tang
 wikipedia:
   extract: 'Hustlers Convention may refer to:
 

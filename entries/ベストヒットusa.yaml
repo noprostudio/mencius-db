@@ -9,9 +9,8 @@ id: ベストヒットusa
 language: en
 name: ベストヒットUSA
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 美国最佳热门金曲
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 美国最佳热门金曲
+  user_name: mimida
 wikipedia: null

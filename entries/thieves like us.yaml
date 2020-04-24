@@ -9,16 +9,14 @@ id: thieves like us
 language: en
 name: Thieves Like Us
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 吾班窃贼
-    user_name: mimida
-- Tian-Tang:
-    details: ''
-    github_handler: Tian-Tang
-    translation: 吾般窃贼
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 吾班窃贼
+  user_name: mimida
+- details: ''
+  github_handler: Tian-Tang
+  translation: 吾般窃贼
+  user_name: Tian Tang
 wikipedia:
   extract: 'Thieves Like Us may refer to:
 

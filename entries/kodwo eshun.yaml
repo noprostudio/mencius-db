@@ -9,11 +9,10 @@ id: kodwo eshun
 language: en
 name: Kodwo Eshun
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 库杜伍·艾顺
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 库杜伍·艾顺
+  user_name: mimida
 wikipedia:
   extract: Kodwo Eshun (born 1967) is a British-Ghanaian writer, theorist and filmmaker.
     He studied English Literature (BA Hons, MA Hons) at  University College, Oxford

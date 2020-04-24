@@ -9,11 +9,10 @@ id: dj hollywood
 language: en
 name: DJ Hollywood
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: DJ好莱坞
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: DJ好莱坞
+  user_name: mimida
 wikipedia:
   extract: DJ Hollywood (born Anthony Holloway; December 10, 1954) is an American
     MC and disc jockey.

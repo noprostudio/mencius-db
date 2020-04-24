@@ -9,11 +9,10 @@ id: juan atkins
 language: en
 name: Juan Atkins
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 胡安·阿特金斯
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 胡安·阿特金斯
+  user_name: mimida
 wikipedia:
   extract: Juan Atkins (born September 12, 1962), also known as Model 500 and Infiniti,
     is an American record producer and DJ from Detroit, Michigan. Mixmag has described

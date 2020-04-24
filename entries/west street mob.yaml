@@ -9,11 +9,10 @@ id: west street mob
 language: en
 name: West Street Mob
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 西街暴徒
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 西街暴徒
+  user_name: mimida
 wikipedia:
   extract: West Street Mob were a boogie and electro music trio, active between 1981
     and 1984, best known for their 1983 song "Break Dance — Electric Boogie." The

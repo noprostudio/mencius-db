@@ -9,11 +9,10 @@ id: rapture
 language: en
 name: Rapture
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 狂喜
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 狂喜
+  user_name: mimida
 wikipedia:
   extract: 'The rapture is an eschatological concept of certain Christians, particularly
     within branches of American evangelicalism, consisting of an end-time event when

@@ -9,11 +9,10 @@ id: george clinton
 language: en
 name: George Clinton
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 乔治·克林顿
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 乔治·克林顿
+  user_name: mimida
 wikipedia:
   extract: 'George Clinton may refer to:'
   ns: 0

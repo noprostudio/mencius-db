@@ -9,14 +9,12 @@ id: fantastic freaks
 language: en
 name: Fantastic Freaks
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 奇妙怪胎
-    user_name: mimida
-- Tian-Tang:
-    details: ''
-    github_handler: Tian-Tang
-    translation: 怪杰
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 奇妙怪胎
+  user_name: mimida
+- details: ''
+  github_handler: Tian-Tang
+  translation: 怪杰
+  user_name: Tian Tang
 wikipedia: null

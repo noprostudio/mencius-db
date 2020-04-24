@@ -9,11 +9,10 @@ id: fabulous 5
 language: en
 name: Fabulous 5
 opinions:
-- mimida:
-    details: The Beatles = Fab 4（四尖子/四绝）
-    github_handler: mimida
-    translation: 五绝
-    user_name: mimida
+- details: The Beatles = Fab 4（四尖子/四绝）
+  github_handler: mimida
+  translation: 五绝
+  user_name: mimida
 wikipedia:
   extract: 'The Fabulous Five may refer to:
 

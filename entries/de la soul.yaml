@@ -9,21 +9,18 @@ id: de la soul
 language: en
 name: De La Soul
 opinions:
-- mimida:
-    details: 也可以叫“来自灵魂”、“灵魂深处”，因为“De La = of/from”，见：https://www.spanishdict.com/answers/123894/what-does-the-contractions-del-and-de-la-mean，但暂且音译
-    github_handler: mimida
-    translation: 迪拉索
-    user_name: mimida
-- redhousepainter:
-    details: 这个之前国内以前好像一直翻成“德拉灵魂”
-    github_handler: redhousepainter
-    translation: 德拉灵魂
-    user_name: redhousepainter
-- Lil-Bag:
-    details: ''
-    github_handler: Lil-Bag
-    translation: 德拉索
-    user_name: Lil Bag
+- details: 也可以叫“来自灵魂”、“灵魂深处”，因为“De La = of/from”，见：https://www.spanishdict.com/answers/123894/what-does-the-contractions-del-and-de-la-mean，但暂且音译
+  github_handler: mimida
+  translation: 迪拉索
+  user_name: mimida
+- details: 这个之前国内以前好像一直翻成“德拉灵魂”
+  github_handler: redhousepainter
+  translation: 德拉灵魂
+  user_name: redhousepainter
+- details: ''
+  github_handler: Lil-Bag
+  translation: 德拉索
+  user_name: Lil Bag
 wikipedia:
   extract: De La Soul  is an American hip hop trio formed in 1988 in the Amityville
     area of Long Island, New York. They are best known for their eclectic sampling,

@@ -9,11 +9,10 @@ id: born in the u.s.a.
 language: en
 name: Born in the U.S.A.
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 生于美国
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 生于美国
+  user_name: mimida
 wikipedia:
   extract: 'Born in the U.S.A. is the seventh studio album by American rock singer-songwriter
     Bruce Springsteen. It was released by Columbia Records on June 4, 1984. The album''s

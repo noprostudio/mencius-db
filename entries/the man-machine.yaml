@@ -9,16 +9,14 @@ id: the man-machine
 language: en
 name: The Man-Machine
 opinions:
-- Tian-Tang:
-    details: 或：机型人类
-    github_handler: Tian-Tang
-    translation: 人机合一
-    user_name: Tian Tang
-- Lil-Bag:
-    details: ''
-    github_handler: Lil-Bag
-    translation: 人型机
-    user_name: Lil Bag
+- details: 或：机型人类
+  github_handler: Tian-Tang
+  translation: 人机合一
+  user_name: Tian Tang
+- details: ''
+  github_handler: Lil-Bag
+  translation: 人型机
+  user_name: Lil Bag
 wikipedia:
   extract: 'The Man-Machine (German: Die Mensch-Maschine) is the seventh studio album
     by German electronic music band Kraftwerk. It was released on 19 May 1978 by Kling

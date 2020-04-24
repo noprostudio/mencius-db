@@ -9,9 +9,8 @@ id: grand mixer d.st.
 language: en
 name: Grand Mixer D.ST.
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 混音大师D.ST.
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 混音大师D.ST.
+  user_name: mimida
 wikipedia: null

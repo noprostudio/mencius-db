@@ -9,9 +9,8 @@ id: 冈村隆史
 language: jp
 name: 冈村隆史
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 冈村隆史
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 冈村隆史
+  user_name: mimida
 wikipedia: null

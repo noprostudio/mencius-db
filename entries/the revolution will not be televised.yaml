@@ -9,11 +9,10 @@ id: the revolution will not be televised
 language: en
 name: The revolution will not be televised
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 革命不会被电视转播
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 革命不会被电视转播
+  user_name: mimida
 wikipedia:
   extract: '"The Revolution Will Not Be Televised" is a poem and song by Gil Scott-Heron.
     Scott-Heron first recorded it for his 1970 album Small Talk at 125th and Lenox,

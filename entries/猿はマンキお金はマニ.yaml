@@ -9,9 +9,8 @@ id: 猿はマンキお金はマニ
 language: en
 name: 猿はマンキお金はマニ
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 猴子是MONKEY、金钱是MONEY
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 猴子是MONKEY、金钱是MONEY
+  user_name: mimida
 wikipedia: null

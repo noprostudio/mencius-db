@@ -9,11 +9,10 @@ id: flying lotus
 language: en
 name: Flying Lotus
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 飞莲
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 飞莲
+  user_name: mimida
 wikipedia:
   extract: 'Steven Ellison (born October 7, 1983), known by his stage name Flying
     Lotus or sometimes FlyLo, is an American record producer, musician, DJ, filmmaker,

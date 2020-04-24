@@ -9,11 +9,10 @@ id: nelson george
 language: en
 name: Nelson George
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 尼尔森·乔治
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 尼尔森·乔治
+  user_name: mimida
 wikipedia:
   extract: Nelson George (born September 1, 1957) is an American author, columnist,
     music and culture critic, journalist, and filmmaker. He has been nominated twice

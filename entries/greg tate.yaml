@@ -9,11 +9,10 @@ id: greg tate
 language: en
 name: Greg Tate
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 格雷格·泰特
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 格雷格·泰特
+  user_name: mimida
 wikipedia:
   extract: Greg Tate is an African-American writer, musician, and producer. The focus
     of his writing has been African-American music and culture. He is a founding member

@@ -9,9 +9,8 @@ id: the tommy boy story, vol.1
 language: en
 name: The Tommy Boy Story, Vol.1
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 汤米小子故事 第一辑
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 汤米小子故事 第一辑
+  user_name: mimida
 wikipedia: null

@@ -9,17 +9,15 @@ id: the sequence
 language: en
 name: The Sequence
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 次序
-    user_name: mimida
-- Tian-Tang:
-    details: 在音乐、包括电影，我所知道的sequennce是一个专业名词，有别于order。因为Order更像是这东西的天然属性，而sequence是一种particular
-      order，比如做一段音乐，剪辑一段影片，这个人为决定的次序，被称之为sequence。
-    github_handler: Tian-Tang
-    translation: 序列
-    user_name: Tian Tang
+- details: ''
+  github_handler: mimida
+  translation: 次序
+  user_name: mimida
+- details: 在音乐、包括电影，我所知道的sequennce是一个专业名词，有别于order。因为Order更像是这东西的天然属性，而sequence是一种particular
+    order，比如做一段音乐，剪辑一段影片，这个人为决定的次序，被称之为sequence。
+  github_handler: Tian-Tang
+  translation: 序列
+  user_name: Tian Tang
 wikipedia:
   extract: The Sequence was an American female hip–hop trio from Columbia, South Carolina,
     who formed in 1979. The Sequence is noted as the first female hip hop trio signed

@@ -9,16 +9,14 @@ id: coolio
 language: en
 name: Coolio
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 酷利奥
-    user_name: mimida
-- redhousepainter:
-    details: 国内以前也有翻：胡里奥
-    github_handler: redhousepainter
-    translation: 胡里奥
-    user_name: redhousepainter
+- details: ''
+  github_handler: mimida
+  translation: 酷利奥
+  user_name: mimida
+- details: 国内以前也有翻：胡里奥
+  github_handler: redhousepainter
+  translation: 胡里奥
+  user_name: redhousepainter
 wikipedia:
   extract: 'Artis Leon Ivey Jr. (born August 1, 1963), known by his stage name Coolio,
     is an American rapper, actor, chef, and record producer. Coolio achieved mainstream

@@ -9,11 +9,10 @@ id: documentary
 language: en
 name: Documentary
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 纪录片
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 纪录片
+  user_name: mimida
 wikipedia:
   extract: 'A documentary film is a non-fictional, motion picture intended to "document
     reality, primarily for the purposes of instruction, education, or maintaining

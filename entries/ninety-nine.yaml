@@ -9,9 +9,8 @@ id: ninety-nine
 language: en
 name: NINETY-NINE
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: NINETY-NINE
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: NINETY-NINE
+  user_name: mimida
 wikipedia: null

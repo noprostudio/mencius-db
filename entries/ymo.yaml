@@ -9,11 +9,10 @@ id: ymo
 language: en
 name: YMO
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 黄色魔术乐团
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 黄色魔术乐团
+  user_name: mimida
 wikipedia:
   extract: 'YMO may refer to:
 

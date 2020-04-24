@@ -9,11 +9,10 @@ id: aerosmith
 language: en
 name: Aerosmith
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 空中铁匠
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 空中铁匠
+  user_name: mimida
 wikipedia:
   extract: 'Aerosmith is an American rock band formed in Boston, Massachusetts in
     1970. The group consists of Steven Tyler (vocals, guitars, keyboards), Joe Perry

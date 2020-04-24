@@ -9,9 +9,8 @@ id: 魂（ソウル）のゆくえ
 language: en
 name: 魂（ソウル）のゆくえ
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 魂（SOUL）的去向
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 魂（SOUL）的去向
+  user_name: mimida
 wikipedia: null

@@ -9,16 +9,14 @@ id: grand wizard theodore
 language: en
 name: Grand Wizard Theodore
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 大巫师西奥多
-    user_name: mimida
-- Lil-Bag:
-    details: ''
-    github_handler: Lil-Bag
-    translation: 西奥多大巫师
-    user_name: Lil Bag
+- details: ''
+  github_handler: mimida
+  translation: 大巫师西奥多
+  user_name: mimida
+- details: ''
+  github_handler: Lil-Bag
+  translation: 西奥多大巫师
+  user_name: Lil Bag
 wikipedia:
   extract: Theodore Livingston (born March 5, 1963), better known as Grand Wizzard
     Theodore, is an American hip hop DJ. He is widely credited as the inventor of

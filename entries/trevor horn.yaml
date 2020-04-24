@@ -9,11 +9,10 @@ id: trevor horn
 language: en
 name: Trevor Horn
 opinions:
-- mimida:
-    details: ''
-    github_handler: mimida
-    translation: 特雷弗·霍恩
-    user_name: mimida
+- details: ''
+  github_handler: mimida
+  translation: 特雷弗·霍恩
+  user_name: mimida
 wikipedia:
   extract: 'Trevor Charles Horn  (born 15 July 1949) is an English bassist, singer,
     songwriter, music producer, and recording studio and label owner. He is best known
