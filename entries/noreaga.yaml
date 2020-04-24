@@ -6,9 +6,27 @@ consensus_translation: 诺列加
 date: ''
 group: ''
 id: noreaga
+language: en
 name: Noreaga
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 诺列加
-  user_name: Lil Bag
+- Lil-Bag:
+    details: ''
+    github_handler: Lil-Bag
+    translation: 诺列加
+    user_name: Lil Bag
+wikipedia:
+  extract: 'Victor Santiago, Jr. (born September 6, 1977), better known by his stage
+    name N.O.R.E., or Noreaga, is an American rapper, actor and media personality.
+    Santiago first rose to prominence as one half of the East Coast hip hop duo Capone-N-Noreaga
+    (C-N-N), alongside fellow Queens-based rapper Capone. He would also have success
+    as a solo artist with the singles "Superthug", "Banned from T.V.", "Nothin''",
+    "Oye Mi Canto" and "Mas Maiz".
+
+    Santiago has released music under various record labels, including Penalty, Roc-La-Familia,
+    Def Jam, and Babygrande Records. In June 2011, it was announced Santiago partnered
+    with fellow American rapper Busta Rhymes'' Conglomerate label, where he released
+    his 2013 album Student of the Game, issued under E1 Music. Santiago is also chief
+    executive officer (CEO) of his own imprint, Militainment Business.'
+  ns: 0
+  pageid: 1436353
+  title: N.O.R.E.

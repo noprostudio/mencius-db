@@ -6,9 +6,28 @@ consensus_translation: Nujabes
 date: ''
 group: ''
 id: nujabes
+language: en
 name: Nujabes
 opinions:
-- details: 没法翻译。他日文名叫瀬场润（瀬葉淳），用罗马音拼是seba jun，倒过来了就是nujabes
-  github_handler: ''
-  translation: Nujabes
-  user_name: redhousepainter
+- redhousepainter:
+    details: 没法翻译。他日文名叫瀬场润（瀬葉淳），用罗马音拼是seba jun，倒过来了就是nujabes
+    github_handler: redhousepainter
+    translation: Nujabes
+    user_name: redhousepainter
+wikipedia:
+  extract: 'Jun Seba (Japanese: 瀬葉 淳, Hepburn: Seba Jun, February 7, 1974 – February
+    26, 2010), better known by his stage name Nujabes (ヌジャベス, Nujabesu), was a Japanese
+    record producer, DJ, composer and arranger who produced atmospheric instrumental
+    mixes sampling from hip hop and jazz and released three solo studio albums: Metaphorical
+    Music (2003), Modal Soul (2005) and Spiritual State (released posthumously in
+    2011). Seba was the founder of the independent label Hydeout Productions and released
+    two collection compilations: Hydeout Productions 1st Collection (2003) and 2nd
+    Collection (2007).
+
+    Additionally, Seba collaborated on the soundtrack for Shinichirō Watanabe''s anime
+    series Samurai Champloo (Music Record: Departure and Impression) in 2004.
+
+    On February 26, 2010, Jun Seba was killed in a traffic collision.'
+  ns: 0
+  pageid: 4305696
+  title: Nujabes

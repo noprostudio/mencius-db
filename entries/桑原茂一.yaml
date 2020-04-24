@@ -6,9 +6,16 @@ consensus_translation: 桑原茂一
 date: ''
 group: ''
 id: 桑原茂一
+language: jp
 name: 桑原茂一
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 桑原茂一
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 桑原茂一
+    user_name: mimida
+wikipedia:
+  extract: 桑原茂一（くわはら もいち、1950年12月9日 - ）は、日本の音楽プロデューサー・コント作家・放送作家・雑誌編集者・選曲家。本名：桑原茂（くわはら　しげる）。ライターとして「クワハラモイチ」「桑原茂一2」などを名乗る。現在、プロデュースカンパニー「株式会社クラブキング」代表取締役。岡山県出身。
+  ns: 0
+  pageid: 888013
+  title: 桑原茂一

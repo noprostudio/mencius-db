@@ -6,9 +6,12 @@ consensus_translation: 掌柜和学徒
 date: 1959-1961
 group: ''
 id: 番頭はんと丁稚どん
+language: en
 name: 番頭はんと丁稚どん
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 掌柜和学徒
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 掌柜和学徒
+    user_name: mimida
+wikipedia: null

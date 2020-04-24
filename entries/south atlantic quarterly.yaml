@@ -6,9 +6,12 @@ consensus_translation: 南大西洋季刊
 date: 1901-
 group: ''
 id: south atlantic quarterly
+language: en
 name: South Atlantic Quarterly
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 南大西洋季刊
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 南大西洋季刊
+    user_name: mimida
+wikipedia: null

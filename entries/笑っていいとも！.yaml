@@ -6,9 +6,12 @@ consensus_translation: 笑一笑又何妨
 date: 1982-2014
 group: ''
 id: 笑っていいとも！
+language: en
 name: 笑っていいとも！
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 笑一笑又何妨
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 笑一笑又何妨
+    user_name: mimida
+wikipedia: null

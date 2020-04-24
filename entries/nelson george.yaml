@@ -6,9 +6,18 @@ consensus_translation: 尼尔森·乔治
 date: ''
 group: ''
 id: nelson george
+language: en
 name: Nelson George
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 尼尔森·乔治
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 尼尔森·乔治
+    user_name: mimida
+wikipedia:
+  extract: Nelson George (born September 1, 1957) is an American author, columnist,
+    music and culture critic, journalist, and filmmaker. He has been nominated twice
+    for the National Book Critics Circle Award.
+  ns: 0
+  pageid: 4007754
+  title: Nelson George

@@ -6,9 +6,21 @@ consensus_translation: K-罗布
 date: ''
 group: ''
 id: k-rob
+language: en
 name: K-Rob
 opinions:
-- details: ''
-  github_handler: ''
-  translation: K-罗布
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: K-罗布
+    user_name: mimida
+wikipedia:
+  extract: Malik Johnson, better known as K-Rob, is an American rapper, most famous
+    for providing vocals for "Beat Bop" with Rammellzee in 1983 and "I'm a Homeboy",
+    a single under his own name, in 1986. "The Day K-Rob Came Back" was also released
+    in 1986. Since the 1980s, however, aside from providing a verse for "Beat Bop
+    Part 2" on 2004's Bi-Conicals of the Rammellzee, K-Rob has devoted himself more
+    to his Muslim faith.
+  ns: 0
+  pageid: 25724124
+  title: K-Rob

@@ -6,9 +6,44 @@ consensus_translation: 马尔科姆·麦克拉伦
 date: ''
 group: ''
 id: malcolm mclaren
+language: en
 name: Malcolm McLaren
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 马尔科姆·麦克拉伦
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 马尔科姆·麦克拉伦
+    user_name: mimida
+wikipedia:
+  extract: 'Malcolm Robert Andrew McLaren (22 January 1946 – 8 April 2010) was an
+    English impresario, visual artist, performer, musician, clothes designer and boutique
+    owner, notable for combining these activities in an inventive and provocative
+    way.  He is best known as a promoter and manager of bands the New York Dolls and
+    the Sex Pistols.
+
+    Brought up unconventionally by his grandmother after his father, Peter, left the
+    family home, McLaren attended a number of British art colleges and adopted the
+    stance of the social rebel in the style of French revolutionaries the Situationists.
+
+    With a keen eye for trends, McLaren realised that a new protest style was needed
+    for the 1970s, and largely initiated the punk movement, for which he supplied
+    fashions from the Chelsea boutique SEX, which he operated with girlfriend Vivienne
+    Westwood.
+
+    After a spell advising the New York Dolls in the U.S., McLaren managed the Sex
+    Pistols, for which he recruited the nihilistic frontman Johnny Rotten. The issue
+    of a controversial record, "God Save the Queen", satirising the Queen''s Jubilee
+    in 1977, was typical of McLaren''s shock tactics, and he gained publicity by being
+    arrested after a promotional boat trip outside the Houses of Parliament.
+
+    McLaren also performed as a solo artist, initially focusing on hip hop and world
+    music and later diversifying into funk and disco, the dance fashion for "voguing"
+    and merging opera with contemporary electronic musical forms. When accused of
+    turning popular culture into a cheap marketing gimmick, he joked that he hoped
+    it was true.
+
+    In his later years, he lived in Paris and New York City, and died of peritoneal
+    mesothelioma in a Swiss hospital.'
+  ns: 0
+  pageid: 149007
+  title: Malcolm McLaren

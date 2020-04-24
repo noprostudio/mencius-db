@@ -6,9 +6,12 @@ consensus_translation: 这很低俗
 date: '1982'
 group: ''
 id: it’s nasty
+language: en
 name: It’s Nasty
 opinions:
-- details: 反讽当时白人觉得黑人音乐很低俗，但其实此歌歌词相当正面，证明黑人音乐不支白人理解的性啊什么的
-  github_handler: ''
-  translation: 这很低俗
-  user_name: Tian Tang
+- Tian-Tang:
+    details: 反讽当时白人觉得黑人音乐很低俗，但其实此歌歌词相当正面，证明黑人音乐不支白人理解的性啊什么的
+    github_handler: Tian-Tang
+    translation: 这很低俗
+    user_name: Tian Tang
+wikipedia: null

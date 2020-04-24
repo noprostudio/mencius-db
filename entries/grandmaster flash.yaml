@@ -6,17 +6,31 @@ consensus_translation: 闪耀大师
 date: ''
 group: Grandmaster Flash and the Furious Five
 id: grandmaster flash
+language: en
 name: Grandmaster Flash
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 闪耀大师
-  user_name: mimida
-- details: ''
-  github_handler: ''
-  translation: 闪电大师
-  user_name: redhousepainter
-- details: 以前经常见到的直译“闪手大师”
-  github_handler: ''
-  translation: 闪手大师
-  user_name: Lil Bag
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 闪耀大师
+    user_name: mimida
+- redhousepainter:
+    details: ''
+    github_handler: redhousepainter
+    translation: 闪电大师
+    user_name: redhousepainter
+- Lil-Bag:
+    details: 以前经常见到的直译“闪手大师”
+    github_handler: Lil-Bag
+    translation: 闪手大师
+    user_name: Lil Bag
+wikipedia:
+  extract: Joseph Saddler (born January 1, 1958), better known by his stage name Grandmaster
+    Flash, is an American hip hop recording artist and DJ. He is considered to be
+    one of the pioneers of hip hop DJing, cutting, scratching and mixing. Grandmaster
+    Flash and the Furious Five were inducted into the Rock and Roll Hall of Fame in
+    2007, becoming the first hip hop act to be honored. In 2019 he won the Polar Music
+    Prize.
+  ns: 0
+  pageid: 23921203
+  title: Grandmaster Flash

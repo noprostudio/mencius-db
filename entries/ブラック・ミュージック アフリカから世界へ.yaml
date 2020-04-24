@@ -6,9 +6,12 @@ consensus_translation: 黑人音乐：从非洲走向世界
 date: '2009'
 group: ''
 id: ブラック・ミュージック アフリカから世界へ
+language: en
 name: ブラック・ミュージック アフリカから世界へ
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 黑人音乐：从非洲走向世界
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 黑人音乐：从非洲走向世界
+    user_name: mimida
+wikipedia: null

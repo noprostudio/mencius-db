@@ -6,13 +6,21 @@ consensus_translation: 小间奏
 date: '1980'
 group: ''
 id: the breaks
+language: en
 name: The Breaks
 opinions:
-- details: breaks一词在歌中包含间奏、乐段、暂停、休息时间、霉运等多重意思，内容上可以理解为“（不过是些生活中的）小插曲”
-  github_handler: ''
-  translation: 小间奏
-  user_name: mimida
-- details: 或：突变情况/（这歌描述的都是生活中的各种坏事情和糟糕的情况，表达类似：“这就是生活，接受呗的”态度。）
-  github_handler: ''
-  translation: 晴天霹雳
-  user_name: Tian Tang
+- mimida:
+    details: breaks一词在歌中包含间奏、乐段、暂停、休息时间、霉运等多重意思，内容上可以理解为“（不过是些生活中的）小插曲”
+    github_handler: mimida
+    translation: 小间奏
+    user_name: mimida
+- Tian-Tang:
+    details: 或：突变情况/（这歌描述的都是生活中的各种坏事情和糟糕的情况，表达类似：“这就是生活，接受呗的”态度。）
+    github_handler: Tian-Tang
+    translation: 晴天霹雳
+    user_name: Tian Tang
+wikipedia:
+  extract: 'Break or Breaks or The Break may refer to:'
+  ns: 0
+  pageid: 490488
+  title: Break

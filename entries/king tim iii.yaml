@@ -6,9 +6,26 @@ consensus_translation: 提姆王三世
 date: '1979'
 group: ''
 id: king tim iii
+language: en
 name: King Tim III
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 提姆王三世
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 提姆王三世
+    user_name: mimida
+wikipedia:
+  extract: '"King Tim III (Personality Jock)" is a 1979 song by the Fatback Band from
+    the disco album XII. Released on March 25, 1979, a few months before "Rapper''s
+    Delight" (which is widely regarded as the first commercially released hip hop
+    song), this song is often cited as the beginning of recorded hip hop. The title
+    refers to vocalist Tim Washington.
+
+    The song was originally the B-Side of the 7-inch single, with the A-Side "You''re
+    My Candy Sweet" a mid-tempo disco song. However the song stalled at #67 after
+    4-weeks on the R&B chart and was replaced the following week with "King Tim III
+    (Personality Jock)" on the chart. It peaked at #26 on the R&B chart and stayed
+    on for 11 weeks.'
+  ns: 0
+  pageid: 303394
+  title: King Tim III (Personality Jock)

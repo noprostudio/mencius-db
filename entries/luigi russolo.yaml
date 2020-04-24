@@ -6,9 +6,22 @@ consensus_translation: 鲁索洛
 date: ''
 group: ''
 id: luigi russolo
+language: en
 name: Luigi Russolo
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 鲁索洛
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 鲁索洛
+    user_name: mimida
+wikipedia:
+  extract: Luigi Carlo Filippo Russolo (30 April 1885 – 6 February 1947) was an Italian
+    Futurist painter, composer, builder of experimental musical instruments, and the
+    author of the manifesto The Art of Noises (1913). He is often regarded as one
+    of the first noise music experimental composers with his performances of noise
+    music concerts in 1913–14 and then again after World War I, notably in Paris in
+    1921. He designed and constructed a number of noise-generating devices called
+    Intonarumori.
+  ns: 0
+  pageid: 844294
+  title: Luigi Russolo

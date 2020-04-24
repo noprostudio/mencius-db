@@ -6,9 +6,17 @@ consensus_translation: 时髦
 date: ''
 group: ''
 id: chic
+language: en
 name: Chic
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 时髦
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 时髦
+    user_name: mimida
+wikipedia:
+  extract: 'Chic (; French: [ʃik]), meaning "stylish" or "smart", is an element of
+    fashion. It was originally a French word.'
+  ns: 0
+  pageid: 5211552
+  title: Chic

@@ -6,9 +6,18 @@ consensus_translation: 西街暴徒
 date: ''
 group: ''
 id: west street mob
+language: en
 name: West Street Mob
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 西街暴徒
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 西街暴徒
+    user_name: mimida
+wikipedia:
+  extract: West Street Mob were a boogie and electro music trio, active between 1981
+    and 1984, best known for their 1983 song "Break Dance — Electric Boogie." The
+    band comprised Joey Robinson, Jr., Warren Moore and singer Sabrina Gillison.
+  ns: 0
+  pageid: 32890285
+  title: West Street Mob

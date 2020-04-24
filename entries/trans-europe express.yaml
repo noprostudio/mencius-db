@@ -6,9 +6,25 @@ consensus_translation: 环欧快车
 date: '1977'
 group: ''
 id: trans-europe express
+language: en
 name: Trans-Europe Express
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 环欧快车
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 环欧快车
+    user_name: mimida
+wikipedia:
+  extract: 'Trans Europ Express is a former international train network in Europe.
+
+    It may also refer to:
+
+
+    Trans-Europ-Express (film), a 1966 film written and directed by Alain Robbe-Grillet
+
+    Trans-Europe Express (album), The Kraftwerk album
+
+    "Trans-Europe Express" (song), The Kraftwerk single'
+  ns: 0
+  pageid: 18398239
+  title: Trans Europ Express (disambiguation)

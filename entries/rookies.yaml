@@ -6,9 +6,12 @@ consensus_translation: 教头当家
 date: 1998-2003
 group: ''
 id: rookies
+language: en
 name: ROOKIES
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 教头当家
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 教头当家
+    user_name: mimida
+wikipedia: null

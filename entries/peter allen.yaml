@@ -6,9 +6,16 @@ consensus_translation: 彼得·艾伦
 date: ''
 group: ''
 id: peter allen
+language: en
 name: Peter Allen
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 彼得·艾伦
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 彼得·艾伦
+    user_name: mimida
+wikipedia:
+  extract: 'Peter or Pete Allen may refer to:'
+  ns: 0
+  pageid: 9890679
+  title: Peter Allen

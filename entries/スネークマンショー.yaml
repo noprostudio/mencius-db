@@ -6,9 +6,12 @@ consensus_translation: 蛇人秀
 date: ''
 group: ''
 id: スネークマンショー
+language: en
 name: スネークマンショー
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 蛇人秀
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 蛇人秀
+    user_name: mimida
+wikipedia: null

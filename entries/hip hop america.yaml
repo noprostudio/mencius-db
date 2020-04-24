@@ -6,9 +6,12 @@ consensus_translation: 嘻哈美国
 date: '1998'
 group: ''
 id: hip hop america
+language: en
 name: Hip Hop America
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 嘻哈美国
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 嘻哈美国
+    user_name: mimida
+wikipedia: null

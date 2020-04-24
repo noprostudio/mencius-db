@@ -6,13 +6,45 @@ consensus_translation: 酷赫克
 date: ''
 group: ''
 id: kool herc
+language: en
 name: Kool Herc
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 库尔·赫克
-  user_name: mimida
-- details: ''
-  github_handler: ''
-  translation: 酷赫克
-  user_name: Lil Bag
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 库尔·赫克
+    user_name: mimida
+- Lil-Bag:
+    details: ''
+    github_handler: Lil-Bag
+    translation: 酷赫克
+    user_name: Lil Bag
+wikipedia:
+  extract: 'Clive Campbell (born April 16, 1955), better known by his stage name DJ
+    Kool Herc, is a Jamaican DJ who is credited with helping originate hip hop music
+    in the Bronx, New York City, in the 1970s through his "Back to School Jam", hosted
+    on August 11, 1973, at 1520 Sedgwick Avenue. After his younger sister, Cindy Campbell,
+    became inspired to earn extra cash for back-to-school clothes, she decided to
+    have her older brother, then 16 years old, play music for the neighborhood in
+    their apartment building. Known as the "Founder of Hip-Hop" and "Father of Hip-Hop",
+    Campbell began playing hard funk records of the sort typified by James Brown as
+    an alternative both to the violent gang culture of the Bronx and to the nascent
+    popularity of disco in the 1970s.
+
+    Campbell began to isolate the instrumental portion of the record which emphasized
+    the drum beat—the "break"—and switch from one break to another. Using the same
+    two-turntable set-up of disco DJs, he used two copies of the same record to elongate
+    the break. This breakbeat DJing, using funky drum solos, formed the basis of hip
+    hop music. Campbell''s announcements and exhortations to dancers helped lead to
+    the syncopated, rhythmically spoken accompaniment now known as rapping.
+
+    He called the dancers "break-boys" and "break-girls", or simply b-boys and b-girls.
+    Campbell''s DJ style was quickly taken up by figures such as Afrika Bambaataa
+    and Grandmaster Flash. Unlike them, he never made the move into commercially recorded
+    hip hop in its earliest years.
+
+
+    '
+  ns: 0
+  pageid: 16833384
+  title: DJ Kool Herc

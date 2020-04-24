@@ -6,9 +6,21 @@ consensus_translation: 卡兹大师
 date: ''
 group: Cold Crush Brothers
 id: grandmaster caz
+language: en
 name: Grandmaster Caz
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 卡兹大师
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 卡兹大师
+    user_name: mimida
+wikipedia:
+  extract: Curtis Brown better known by his stage name Casanova Fly a.k.a Grandmaster
+    Caz, is an American rapper, songwriter and DJ.  He currently works as a celebrity
+    tour guide for Hush Hip Hop Tours, a hip-hop cultural sightseeing tour company
+    in New York City, and is a Board member of The Kennedy Center's Hip-Hop Council,  Hip-Hop
+    Ambassador and Board member for Windows of HipHop and CEO of GMC ENTERTAINMENT
+    INC.
+  ns: 0
+  pageid: 32574170
+  title: Grandmaster Caz

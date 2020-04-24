@@ -6,9 +6,19 @@ consensus_translation: 高桥幸宏
 date: ''
 group: YMO
 id: 高橋幸宏
+language: jp
 name: 高橋幸宏
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 高桥幸宏
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 高桥幸宏
+    user_name: mimida
+wikipedia:
+  extract: '高橋 幸宏（たかはし ゆきひろ、1952年6月6日 - ）は、日本のミュージシャンである。
+
+
+    '
+  ns: 0
+  pageid: 2916
+  title: 高橋幸宏

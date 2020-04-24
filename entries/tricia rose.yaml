@@ -6,9 +6,19 @@ consensus_translation: 崔西亚·罗丝
 date: ''
 group: ''
 id: tricia rose
+language: en
 name: Tricia Rose
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 崔西亚·罗丝
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 崔西亚·罗丝
+    user_name: mimida
+wikipedia:
+  extract: Tricia Rose (born 1962) is an American sociologist and author who pioneered
+    scholarship on hip hop. Her studies mainly probe the intersectionality of pop
+    music and gender. Now at Brown University, she is a professor of Africana Studies
+    and is the director of the Center for Study of Race and Ethnicity.
+  ns: 0
+  pageid: 29931323
+  title: Tricia Rose

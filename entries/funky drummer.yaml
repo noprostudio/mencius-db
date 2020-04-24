@@ -6,9 +6,18 @@ consensus_translation: 绝妙鼓手
 date: '1970'
 group: ''
 id: funky drummer
+language: en
 name: Funky Drummer
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 绝妙鼓手
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 绝妙鼓手
+    user_name: mimida
+wikipedia:
+  extract: '"Funky Drummer" is a jam session recorded by James Brown and his band
+    in 1969. The recording''s drum break, a propulsive beat improvised by Clyde Stubblefield,
+    is one of the most frequently sampled rhythmic breaks in hip hop and popular music.'
+  ns: 0
+  pageid: 326810
+  title: Funky Drummer

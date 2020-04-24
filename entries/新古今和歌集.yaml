@@ -6,9 +6,16 @@ consensus_translation: 新古今和歌集
 date: ''
 group: ''
 id: 新古今和歌集
+language: jp
 name: 新古今和歌集
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 新古今和歌集
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 新古今和歌集
+    user_name: mimida
+wikipedia:
+  extract: 『新古今和歌集』（しんこきんわかしゅう）は、鎌倉時代初期に編纂された勅撰和歌集。全二十巻。いわゆる八代集の最後を飾る。略称は『新古今集』（しんこきんしゅう）。
+  ns: 0
+  pageid: 49496
+  title: 新古今和歌集

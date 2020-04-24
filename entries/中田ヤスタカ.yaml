@@ -6,9 +6,12 @@ consensus_translation: 中田康贵
 date: ''
 group: ''
 id: 中田ヤスタカ
+language: en
 name: 中田ヤスタカ
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 中田康贵
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 中田康贵
+    user_name: mimida
+wikipedia: null

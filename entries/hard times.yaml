@@ -6,9 +6,16 @@ consensus_translation: 艰难时光
 date: '1980'
 group: ''
 id: hard times
+language: en
 name: Hard Times
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 艰难时光
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 艰难时光
+    user_name: mimida
+wikipedia:
+  extract: 'Hard Times may refer to:'
+  ns: 0
+  pageid: 13514517
+  title: Hard Times

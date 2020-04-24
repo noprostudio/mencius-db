@@ -11,6 +11,8 @@ nb-black = "*"
 [packages]
 pandas = "*"
 pyyaml = "*"
+langdetect = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"

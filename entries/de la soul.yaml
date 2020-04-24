@@ -6,17 +6,43 @@ consensus_translation: 迪拉索
 date: ''
 group: ''
 id: de la soul
+language: en
 name: De La Soul
 opinions:
-- details: 也可以叫“来自灵魂”、“灵魂深处”，因为“De La = of/from”，见：https://www.spanishdict.com/answers/123894/what-does-the-contractions-del-and-de-la-mean，但暂且音译
-  github_handler: ''
-  translation: 迪拉索
-  user_name: mimida
-- details: 这个之前国内以前好像一直翻成“德拉灵魂”
-  github_handler: ''
-  translation: 德拉灵魂
-  user_name: redhousepainter
-- details: ''
-  github_handler: ''
-  translation: 德拉索
-  user_name: Lil Bag
+- mimida:
+    details: 也可以叫“来自灵魂”、“灵魂深处”，因为“De La = of/from”，见：https://www.spanishdict.com/answers/123894/what-does-the-contractions-del-and-de-la-mean，但暂且音译
+    github_handler: mimida
+    translation: 迪拉索
+    user_name: mimida
+- redhousepainter:
+    details: 这个之前国内以前好像一直翻成“德拉灵魂”
+    github_handler: redhousepainter
+    translation: 德拉灵魂
+    user_name: redhousepainter
+- Lil-Bag:
+    details: ''
+    github_handler: Lil-Bag
+    translation: 德拉索
+    user_name: Lil Bag
+wikipedia:
+  extract: De La Soul  is an American hip hop trio formed in 1988 in the Amityville
+    area of Long Island, New York. They are best known for their eclectic sampling,
+    quirky lyrics, and their contributions to the evolution of the jazz rap and alternative
+    hip hop subgenres. The members are Posdnuos, Trugoy and Maseo. The three formed
+    the group in high school and caught the attention of producer Prince Paul with
+    a demo tape of the song "Plug Tunin'". With its playful wordplay, innovative sampling,
+    and witty skits, the band's debut album, 3 Feet High and Rising, has been called
+    "a hip hop masterpiece."The album was the band's biggest commercial success to
+    date, with subsequent ones selling progressively less, despite receiving high
+    praise from critics. They were influential in the early stages of rapper/actor
+    Mos Def's career, and are a core part of the Spitkicker collective. They are the
+    second longest standing Native Tongues group, after the Jungle Brothers. In 2006,
+    the group won a Grammy for their collaboration with Gorillaz on the single "Feel
+    Good Inc."In early 2015, they announced plans to release a Kickstarter-funded
+    upcoming 9th studio album And the Anonymous Nobody in September 2015; it was released
+    on August 26, 2016. The album tracks are said to be the result of multiple improvised
+    jam sessions. The album also features guest appearances from artists such as Damon
+    Albarn, Little Dragon, David Byrne, 2 Chainz and Snoop Dogg.
+  ns: 0
+  pageid: 167064
+  title: De La Soul

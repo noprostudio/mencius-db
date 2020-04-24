@@ -6,9 +6,19 @@ consensus_translation: 枕边细语
 date: '1973'
 group: ''
 id: pillow talk
+language: en
 name: Pillow Talk
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 枕边细语
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 枕边细语
+    user_name: mimida
+wikipedia:
+  extract: 'Pillow talk is an intimate conversation between lovers which typically
+    takes place in bed.
+
+    Pillow talk or Pillowtalk may also refer to:'
+  ns: 0
+  pageid: 19348338
+  title: Pillow talk (disambiguation)

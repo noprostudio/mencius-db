@@ -6,9 +6,25 @@ consensus_translation: 亚瑟·贝克
 date: ''
 group: ''
 id: arthur baker
+language: en
 name: Arthur Baker
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 亚瑟·贝克
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 亚瑟·贝克
+    user_name: mimida
+wikipedia:
+  extract: 'Arthur Baker may refer to:
+
+
+    Arthur Baker (calligrapher), American calligrapher and typeface designer
+
+    Arthur Baker (musician) (born 1955), American record producer and DJ
+
+    Arthur Slade Baker (1863–1943), British Army officer
+
+    Arthur Baker, character in The Long Walk'
+  ns: 0
+  pageid: 1586799
+  title: Arthur Baker

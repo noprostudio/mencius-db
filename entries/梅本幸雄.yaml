@@ -6,9 +6,12 @@ consensus_translation: 梅本幸雄
 date: ''
 group: ''
 id: 梅本幸雄
+language: jp
 name: 梅本幸雄
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 梅本幸雄
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 梅本幸雄
+    user_name: mimida
+wikipedia: null

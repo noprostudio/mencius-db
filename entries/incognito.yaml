@@ -6,9 +6,16 @@ consensus_translation: 匿名者
 date: ''
 group: ''
 id: incognito
+language: en
 name: Incognito
 opinions:
-- details: 台译：https://www.ccr.com.tw/Artist/15604
-  github_handler: ''
-  translation: 匿名者
-  user_name: mimida
+- mimida:
+    details: 台译：https://www.ccr.com.tw/Artist/15604
+    github_handler: mimida
+    translation: 匿名者
+    user_name: mimida
+wikipedia:
+  extract: 'Incognito may refer to:'
+  ns: 0
+  pageid: 7085226
+  title: Incognito

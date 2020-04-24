@@ -6,13 +6,37 @@ consensus_translation: 亚瑟·拉塞尔
 date: ''
 group: ''
 id: arthur russell
+language: en
 name: Arthur Russell
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 亚瑟·拉塞尔
-  user_name: mimida
-- details: ''
-  github_handler: ''
-  translation: 亚瑟·罗素
-  user_name: Tian Tang
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 亚瑟·拉塞尔
+    user_name: mimida
+- Tian-Tang:
+    details: ''
+    github_handler: Tian-Tang
+    translation: 亚瑟·罗素
+    user_name: Tian Tang
+wikipedia:
+  extract: 'Arthur Russell may refer to:
+
+
+    Arthur Russell (musician) (1951–1992), American cellist, composer, singer, and
+    disco artist
+
+    Arthur Russell, 2nd Baron Ampthill (1869–1935), British administrator and rower
+
+    Arthur Russell (athlete) (1886–1972), British athlete
+
+    Lord Arthur Russell, (1825–1892), British Member of Parliament
+
+    Sir Arthur Russell, 6th Baronet (1878–1964), British mineralogist
+
+    Arthur Tozer Russell (1806–1874), English clergyman and hymn writer
+
+    Arthur Russell, character in 1935 film Alice Adams'
+  ns: 0
+  pageid: 943879
+  title: Arthur Russell

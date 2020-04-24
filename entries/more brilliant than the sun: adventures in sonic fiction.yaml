@@ -6,9 +6,12 @@ consensus_translation: 比太阳更璀璨：声音幻想中的冒险
 date: '1998'
 group: ''
 id: 'more brilliant than the sun: adventures in sonic fiction'
+language: en
 name: 'More Brilliant Than the Sun: Adventures in Sonic Fiction'
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 比太阳更璀璨：声音幻想中的冒险
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 比太阳更璀璨：声音幻想中的冒险
+    user_name: mimida
+wikipedia: null

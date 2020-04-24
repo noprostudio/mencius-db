@@ -6,9 +6,43 @@ consensus_translation: 漂亮的美国小姐
 date: '1970'
 group: ''
 id: momma miss america
+language: en
 name: Momma Miss America
 opinions:
-- details: momma是一个俗语，跟中国管人叫美女一个意思
-  github_handler: ''
-  translation: 漂亮的美国小姐
-  user_name: Tian Tang
+- Tian-Tang:
+    details: momma是一个俗语，跟中国管人叫美女一个意思
+    github_handler: Tian-Tang
+    translation: 漂亮的美国小姐
+    user_name: Tian Tang
+wikipedia:
+  extract: 'McCartney is the debut solo album by English musician Paul McCartney,
+    released on 17 April 1970 by Apple Records. He recorded the album in secrecy,
+    mostly using basic home-recording equipment at his house in St John''s Wood. Mixing
+    and some later recording took place at professional studios in London. In its
+    preference for loosely arranged performance, McCartney eschewed the polish of
+    the Beatles'' past records in favour of a lo-fi style. Apart from occasional contributions
+    by his wife, Linda, he performed the entire album alone by overdubbing on four-track
+    tape.
+
+    McCartney recorded the album during a period of depression and confusion, following
+    John Lennon''s private announcement in September 1969 that he was leaving the
+    Beatles. Conflicts over the release of McCartney''s album further estranged him
+    from his bandmates, as he refused to delay the album''s release to allow for Apple''s
+    previously scheduled titles, notably the Beatles'' album Let It Be. A press release
+    in the form of a self-interview, supplied with UK promotional copies of McCartney,
+    led to the announcement of the group''s break-up.
+
+    On release, the album received mostly negative reviews, while McCartney was vilified
+    for seemingly ending the Beatles. The record was widely criticised for being under-produced
+    and for its unfinished songs, although the ballad "Maybe I''m Amazed" was consistently
+    singled out for praise. Commercially, McCartney benefited from the publicity surrounding
+    the break-up; it held the number 1 position for three weeks on the US Billboard
+    Top LPs before yielding that position to Let It Be. It peaked at number 2 in Britain.
+    In 2011, the album was reissued with bonus tracks as part of the Paul McCartney
+    Archive Collection.
+
+
+    '
+  ns: 0
+  pageid: 1131883
+  title: McCartney (album)

@@ -6,9 +6,20 @@ consensus_translation: 好时光
 date: '1979'
 group: ''
 id: good times
+language: en
 name: Good Times
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 好时光
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 好时光
+    user_name: mimida
+wikipedia:
+  extract: Good Times is an American sitcom television series that aired for six seasons
+    on CBS, from February 8, 1974 to August 1, 1979. Created by Eric Monte and Mike
+    Evans and developed by executive producer Norman Lear, it was television's first
+    African American two-parent family sitcom. Good Times is a spin-off of Maude,
+    which itself is a spin-off of All in the Family.
+  ns: 0
+  pageid: 383052
+  title: Good Times

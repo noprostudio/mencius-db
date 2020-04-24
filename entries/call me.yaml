@@ -6,13 +6,21 @@ consensus_translation: 等你电话
 date: '1980'
 group: ''
 id: call me
+language: en
 name: Call Me
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 等你电话
-  user_name: mimida
-- details: ''
-  github_handler: ''
-  translation: 呼叫我
-  user_name: Tian Tang
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 等你电话
+    user_name: mimida
+- Tian-Tang:
+    details: ''
+    github_handler: Tian-Tang
+    translation: 呼叫我
+    user_name: Tian Tang
+wikipedia:
+  extract: 'Call Me may refer to:'
+  ns: 0
+  pageid: 25867388
+  title: Call Me

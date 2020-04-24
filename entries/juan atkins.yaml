@@ -6,9 +6,19 @@ consensus_translation: 胡安·阿特金斯
 date: ''
 group: Cybotron
 id: juan atkins
+language: en
 name: Juan Atkins
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 胡安·阿特金斯
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 胡安·阿特金斯
+    user_name: mimida
+wikipedia:
+  extract: Juan Atkins (born September 12, 1962), also known as Model 500 and Infiniti,
+    is an American record producer and DJ from Detroit, Michigan. Mixmag has described
+    him as "the original pioneer of Detroit techno." He has been a member of The Belleville
+    Three, Cybotron, and Borderland.
+  ns: 0
+  pageid: 181232
+  title: Juan Atkins

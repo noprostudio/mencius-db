@@ -6,9 +6,22 @@ consensus_translation: 时刻合唱团
 date: ''
 group: ''
 id: the moments
+language: en
 name: The Moments
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 时刻合唱团
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 时刻合唱团
+    user_name: mimida
+wikipedia:
+  extract: 'The Moments may refer to:
+
+
+    The Moments, an American R&B vocal group later known as Ray, Goodman & Brown
+
+    The Moments (English group), an English group of the early 1960s who featured
+    Steve Marriott'
+  ns: 0
+  pageid: 12184164
+  title: The Moments

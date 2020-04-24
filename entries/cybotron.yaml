@@ -6,9 +6,23 @@ consensus_translation: 电子人装置
 date: ''
 group: ''
 id: cybotron
+language: en
 name: Cybotron
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 电子人装置
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 电子人装置
+    user_name: mimida
+wikipedia:
+  extract: '"Cybotron" can refer to:
+
+
+    Cybotron (American band), an American electro band
+
+    Cybotron (Australian band), an electronic/experimental group
+
+    Cybotron, an album and alter-ego of Dillinja'
+  ns: 0
+  pageid: 18802808
+  title: Cybotron

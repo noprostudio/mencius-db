@@ -6,13 +6,29 @@ consensus_translation: 节奏咆勃
 date: '1983'
 group: ''
 id: beat bop
+language: en
 name: Beat Bop
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 节奏咆勃
-  user_name: mimida
-- details: 两种猜测，1- 可能是“Bop your head to the beat”， 2- 可能是对爵士乐中的Bebop的的说话的旧瓶装新酒。
-  github_handler: ''
-  translation: Beat Bop
-  user_name: Tian Tang
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 节奏咆勃
+    user_name: mimida
+- Tian-Tang:
+    details: 两种猜测，1- 可能是“Bop your head to the beat”， 2- 可能是对爵士乐中的Bebop的的说话的旧瓶装新酒。
+    github_handler: Tian-Tang
+    translation: Beat Bop
+    user_name: Tian Tang
+wikipedia:
+  extract: '"Beat Bop" is a hip hop single by American rappers Rammellzee and K-Rob,
+    originally released in 1983 by record label Tartown. It was initially distributed
+    merely as a test pressing. Its cover was designed by New York City graffiti artist
+    Jean-Michel Basquiat. The result of a disagreement between Rammellzee and Basquiat,
+    the track has been cited as having an influence on artists such as Beastie Boys
+    and many experimental hip hop artists due to its chaotic, abstract sound.
+
+    Due to the rarity of its original pressing, it has been called the Holy Grail
+    of rap records. It is featured in the hip-hop documentary film Style Wars.'
+  ns: 0
+  pageid: 25547117
+  title: Beat Bop

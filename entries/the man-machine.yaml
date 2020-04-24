@@ -6,13 +6,29 @@ consensus_translation: 人机合一
 date: '1978'
 group: ''
 id: the man-machine
+language: en
 name: The Man-Machine
 opinions:
-- details: 或：机型人类
-  github_handler: ''
-  translation: 人机合一
-  user_name: Tian Tang
-- details: ''
-  github_handler: ''
-  translation: 人型机
-  user_name: Lil Bag
+- Tian-Tang:
+    details: 或：机型人类
+    github_handler: Tian-Tang
+    translation: 人机合一
+    user_name: Tian Tang
+- Lil-Bag:
+    details: ''
+    github_handler: Lil-Bag
+    translation: 人型机
+    user_name: Lil Bag
+wikipedia:
+  extract: 'The Man-Machine (German: Die Mensch-Maschine) is the seventh studio album
+    by German electronic music band Kraftwerk. It was released on 19 May 1978 by Kling
+    Klang in Germany and by Capitol Records elsewhere. A further refinement of their
+    mechanical style, the album saw the group incorporate more danceable rhythms and
+    less minimalistic arrangements. It includes the singles "The Model" and "The Robots".
+
+    Although the album was initially unsuccessful on the UK Albums Chart, it reached
+    a new peak position of number nine in February 1982, becoming the band''s second
+    highest-peaking album in the United Kingdom after Autobahn (1974).'
+  ns: 0
+  pageid: 555396
+  title: The Man-Machine

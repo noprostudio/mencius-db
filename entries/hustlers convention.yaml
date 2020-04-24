@@ -6,13 +6,28 @@ consensus_translation: 混子大会
 date: '1973'
 group: ''
 id: hustlers convention
+language: en
 name: Hustlers Convention
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 混混集会
-  user_name: mimida
-- details: ''
-  github_handler: ''
-  translation: 大盗集会 / 混子大会
-  user_name: Tian Tang
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 混混集会
+    user_name: mimida
+- Tian-Tang:
+    details: ''
+    github_handler: Tian-Tang
+    translation: 大盗集会 / 混子大会
+    user_name: Tian Tang
+wikipedia:
+  extract: 'Hustlers Convention may refer to:
+
+
+    Hustlers Convention (house duo)
+
+    Hustlers Convention (Lightnin'' Rod album)
+
+    Hustlers Convention, a compilation album by Music of Life'
+  ns: 0
+  pageid: 43754261
+  title: Hustlers Convention

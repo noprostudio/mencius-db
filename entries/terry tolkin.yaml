@@ -6,9 +6,18 @@ consensus_translation: 泰瑞·托尔金
 date: ''
 group: ''
 id: terry tolkin
+language: en
 name: Terry Tolkin
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 泰瑞·托尔金
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 泰瑞·托尔金
+    user_name: mimida
+wikipedia:
+  extract: Terry Tolkin was the Vice President of A&R at Elektra Records from 1992
+    to 1996. He signed a number of critically acclaimed alternative rock bands, including
+    Luna, Stereolab, Afghan Whigs, Vaganza, Scrawl, Jennyanykind and Nada Surf.
+  ns: 0
+  pageid: 12867092
+  title: Terry Tolkin

@@ -6,9 +6,12 @@ consensus_translation: 柯蒂斯·沃克
 date: ''
 group: ''
 id: kurtis walker
+language: en
 name: Kurtis Walker
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 柯蒂斯·沃克
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 柯蒂斯·沃克
+    user_name: mimida
+wikipedia: null

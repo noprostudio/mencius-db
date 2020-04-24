@@ -6,9 +6,30 @@ consensus_translation: 最后的诗人
 date: ''
 group: ''
 id: the last poets
+language: en
 name: The Last Poets
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 最后的诗人
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 最后的诗人
+    user_name: mimida
+wikipedia:
+  extract: 'The Last Poets are several groups of poets and musicians who arose from
+    the late 1960s African-American civil rights movement''s black nationalism. The
+    name is taken from a poem by the South African revolutionary poet Keorapetse Kgositsile,
+    who believed he was in the last era of poetry before guns would take over. The
+    original users of that name were the trio of Felipe Luciano, Gylan Kain, and David
+    Nelson.
+
+    The versions of the group led by Jalaluddin Mansur Nuriddin and Umar Bin Hassan
+    had the largest impact on popular culture. The Last Poets were one of the earliest
+    influences on hip-hop music. Critic Jason Ankeny wrote: "With their politically
+    charged raps, taut rhythms, and dedication to raising African-American consciousness,
+    the Last Poets almost single-handedly laid the groundwork for the emergence of
+    hip-hop." The British music magazine NME stated, "Serious spokesmen like Gil Scott-Heron,
+    The Last Poets, and later Gary Byrd, paved the way for the many socially committed
+    Black [emcees] a decade later."'
+  ns: 0
+  pageid: 176474
+  title: The Last Poets

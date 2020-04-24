@@ -6,9 +6,12 @@ consensus_translation: 美国最佳热门金曲
 date: 1981-
 group: ''
 id: ベストヒットusa
+language: en
 name: ベストヒットUSA
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 美国最佳热门金曲
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 美国最佳热门金曲
+    user_name: mimida
+wikipedia: null

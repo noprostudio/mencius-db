@@ -6,9 +6,21 @@ consensus_translation: 背膘乐队
 date: ''
 group: ''
 id: fatback band
+language: en
 name: Fatback Band
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 背膘乐队
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 背膘乐队
+    user_name: mimida
+wikipedia:
+  extract: The Fatback Band (later, simply Fatback) is an American funk and disco
+    band that was popular in the 1970s and 1980s. The Fatback Band is most known for
+    their R&B hits, "(Do the) Spanish Hustle", "I Like Girls", "Gotta Get My Hands
+    on Some (Money)", "Backstrokin'" and "I Found Lovin". Their 1979 single "King
+    Tim III (Personality Jock)" is generally considered the first commercially released
+    hip hop single.
+  ns: 0
+  pageid: 210485
+  title: Fatback Band

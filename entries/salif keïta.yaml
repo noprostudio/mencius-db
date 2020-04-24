@@ -6,9 +6,26 @@ consensus_translation: 萨利夫·凯塔
 date: ''
 group: ''
 id: salif keïta
+language: en
 name: Salif Keïta
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 萨利夫·凯塔
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 萨利夫·凯塔
+    user_name: mimida
+wikipedia:
+  extract: 'Salif Keita (born 1949) is a Malian singer-songwriter.
+
+    Salif Keita or Salif Keïta may also refer to:
+
+
+    Salif Keïta (Malian footballer) (born 1946), Malian footballer
+
+    Salif Keita (Senegalese footballer) (born 1975), Senegalese footballer
+
+    Salif Kéïta (Central African footballer) (born 1990), Central African Republican
+    footballer'
+  ns: 0
+  pageid: 38904129
+  title: Salif Keita (disambiguation)

@@ -6,9 +6,25 @@ consensus_translation: 拉里·莱文
 date: ''
 group: ''
 id: larry levan
+language: en
 name: Larry Levan
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 拉里·莱文
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 拉里·莱文
+    user_name: mimida
+wikipedia:
+  extract: Larry Levan (; born Lawrence Philpot, July 20, 1954 – November 8, 1992)
+    was an American DJ best known for his decade-long residency at the New York City
+    night club Paradise Garage, which has been described as the prototype of the modern
+    dance club. He developed a cult following who referred to his sets as "Saturday
+    Mass". Influential post-disco DJ François Kevorkian credits Levan with introducing
+    the dub aesthetic into dance music. Along with Kevorkian, Levan experimented with
+    drum machines and synthesizers in his productions and live sets, ushering in an
+    electronic, post-disco sound that presaged the ascendence of house music. He DJ'd
+    at Club Zanzibar in the 1980s as well, home to the Jersey Sound brand of deep
+    house or garage house.
+  ns: 0
+  pageid: 247947
+  title: Larry Levan

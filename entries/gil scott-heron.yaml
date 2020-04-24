@@ -6,9 +6,38 @@ consensus_translation: 吉尔·斯科特-海隆
 date: ''
 group: ''
 id: gil scott-heron
+language: en
 name: Gil Scott-Heron
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 吉尔·斯科特-海隆
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 吉尔·斯科特-海隆
+    user_name: mimida
+wikipedia:
+  extract: Gilbert Scott-Heron (April 1, 1949 – May 27, 2011) was an American soul
+    and jazz poet, musician, and author, known primarily for his work as a spoken-word
+    performer in the 1970s and 1980s. His collaborative efforts with musician Brian
+    Jackson featured a musical fusion of jazz, blues, and soul, as well as lyrical
+    content concerning social and political issues of the time, delivered in both
+    rapping and melismatic vocal styles by Scott-Heron. His own term for himself was
+    "bluesologist", which he defined as "a scientist who is concerned with the origin
+    of the blues".His music, most notably on the albums Pieces of a Man and Winter
+    in America in the early 1970s, influenced and foreshadowed later African-American
+    music genres such as hip hop and neo soul. Scott-Heron is considered by many to
+    be the first rapper/MC ever. His recording work received much critical acclaim,
+    especially one of his best-known compositions, "The Revolution Will Not Be Televised".
+    AllMusic's John Bush called him "one of the most important progenitors of rap
+    music," stating that "his aggressive, no-nonsense street poetry inspired a legion
+    of intelligent rappers while his engaging songwriting skills placed him square
+    in the R&B charts later in his career."Scott-Heron remained active until his death,
+    and in 2010 released his first new album in 16 years, entitled I'm New Here. A
+    memoir he had been working on for years up to the time of his death, The Last
+    Holiday, was published posthumously in January 2012. Scott-Heron received a posthumous
+    Grammy Lifetime Achievement Award in 2012. He also is included in the exhibits
+    at the National Museum of African American History and Culture (NMAAHC) that officially
+    opened on September 24, 2016, on the National Mall, and in an NMAAHC publication,
+    Dream a World Anew.
+  ns: 0
+  pageid: 176479
+  title: Gil Scott-Heron

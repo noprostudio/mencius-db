@@ -6,9 +6,17 @@ consensus_translation: 宇宙放克
 date: '1974'
 group: ''
 id: cosmic funk
+language: en
 name: Cosmic Funk
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 宇宙放克
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 宇宙放克
+    user_name: mimida
+wikipedia:
+  extract: Cosmic Funk is an album by keyboardist Lonnie Liston Smith, featuring performances
+    recorded in 1974 and released by the Flying Dutchman label.
+  ns: 0
+  pageid: 62404754
+  title: Cosmic Funk

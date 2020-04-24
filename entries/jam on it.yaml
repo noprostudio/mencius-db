@@ -6,17 +6,22 @@ consensus_translation: 走起来
 date: '1984'
 group: ''
 id: jam on it
+language: en
 name: Jam on It
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 走起来
-  user_name: mimida
-- details: 这个Jam，跟Let’s Jam的jam是一个意思，好比几个人，带上乐器，一起随便玩玩，弹唱，就出现了一首新歌。
-  github_handler: ''
-  translation: 玩起来
-  user_name: Tian Tang
-- details: ''
-  github_handler: ''
-  translation: 玩起来！
-  user_name: Lil Bag
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 走起来
+    user_name: mimida
+- Tian-Tang:
+    details: 这个Jam，跟Let’s Jam的jam是一个意思，好比几个人，带上乐器，一起随便玩玩，弹唱，就出现了一首新歌。
+    github_handler: Tian-Tang
+    translation: 玩起来
+    user_name: Tian Tang
+- Lil-Bag:
+    details: ''
+    github_handler: Lil-Bag
+    translation: 玩起来！
+    user_name: Lil Bag
+wikipedia: null

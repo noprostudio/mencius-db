@@ -6,9 +6,19 @@ consensus_translation: 克里斯·斯坦
 date: ''
 group: Blondie
 id: chris stein
+language: en
 name: Chris Stein
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 克里斯·斯坦
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 克里斯·斯坦
+    user_name: mimida
+wikipedia:
+  extract: Christopher Stein (born January 5, 1950) is the co-founder and guitarist
+    of the new wave band Blondie. He is also a producer and performer for the classic
+    soundtrack of the hip hop film, Wild Style, and writer of the soundtrack for the
+    film Union City. He is also an accomplished photographer.
+  ns: 0
+  pageid: 1458120
+  title: Chris Stein

@@ -6,9 +6,24 @@ consensus_translation: 罗杰·D·亚伯拉罕
 date: ''
 group: ''
 id: roger d. abrahams
+language: en
 name: Roger D. Abrahams
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 罗杰·D·亚伯拉罕
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 罗杰·D·亚伯拉罕
+    user_name: mimida
+wikipedia:
+  extract: 'Roger David Abrahams (June 12, 1933 – June 20, 2017) was an American folklorist
+    whose work focused on the expressive cultures and cultural histories of the Americas,
+    with a specific emphasis on African American peoples and traditions. He was the
+    Hum Rosen Professor of Humanities Emeritus at the University of Pennsylvania,
+    where he taught in the Department of Folklore and Folklife. He was the author
+    of a large number of books, among which Everyday Life: A Poetics of Vernacular
+    Practices is a recent title, and was the founding Director of Penn''s Center for
+    Folklore and Ethnography, a research and public outreach unit associated with
+    the Department of Folklore and Folklife.'
+  ns: 0
+  pageid: 25543321
+  title: Roger D. Abrahams

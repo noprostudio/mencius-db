@@ -6,9 +6,32 @@ consensus_translation: 黄色魔术乐团
 date: ''
 group: ''
 id: ymo
+language: en
 name: YMO
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 黄色魔术乐团
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 黄色魔术乐团
+    user_name: mimida
+wikipedia:
+  extract: 'YMO may refer to:
+
+
+    Yellow Magic Orchestra, the Japanese synthpop band
+
+    Yellow Magic Orchestra (album), the band''s debut album
+
+    Moosonee Airport, the IATA airport code
+
+    Young Men Organization, an auxiliary organization of The Church of Jesus Christ
+    of Latter-day Saints for adolescent boys
+
+    Young Muslim Organisation, in the United Kingdom
+
+    Yugoslav Muslim Organization
+
+    Yangum language, by ISO 639 code'
+  ns: 0
+  pageid: 947520
+  title: YMO

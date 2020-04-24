@@ -6,9 +6,28 @@ consensus_translation: 小亨利·路易斯·盖茨
 date: ''
 group: ''
 id: henry louis gates, jr.
+language: en
 name: Henry Louis Gates, Jr.
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 小亨利·路易斯·盖茨
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 小亨利·路易斯·盖茨
+    user_name: mimida
+wikipedia:
+  extract: 'Henry Louis "Skip" Gates Jr. (born September 16, 1950) is an American
+    literary critic, teacher, historian, filmmaker and public intellectual who serves
+    as the Alphonse Fletcher University Professor and Director of the Hutchins Center
+    for African and African American Research at Harvard University. He discovered
+    what are considered the earliest known literary works of African-American writers,
+    and has published extensively on appreciating African-American literature as part
+    of the Western canon.
+
+    In addition to producing and hosting previous series on the history and genealogy
+    of prominent American figures, since 2012 Gates has been host for four seasons
+    of the television series Finding Your Roots on PBS. It combines the work of expert
+    researchers in genealogy, history, and genetics historic research to tell guests
+    about their ancestors'' lives and histories.'
+  ns: 0
+  pageid: 45245513
+  title: Henry Louis Gates Jr.

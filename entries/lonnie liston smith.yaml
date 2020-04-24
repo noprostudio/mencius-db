@@ -6,9 +6,20 @@ consensus_translation: 隆尼·李斯顿·史密斯
 date: ''
 group: ''
 id: lonnie liston smith
+language: en
 name: Lonnie Liston Smith
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 隆尼·李斯顿·史密斯
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 隆尼·李斯顿·史密斯
+    user_name: mimida
+wikipedia:
+  extract: Lonnie Liston Smith Jr. (born December 28, 1940) is an American jazz, soul,
+    and funk musician who played with such jazz artists as Pharoah Sanders and Miles
+    Davis before forming Lonnie Liston Smith and the Cosmic Echoes, recording a number
+    of albums widely regarded as classics in the fusion, smooth jazz and acid jazz
+    genres.
+  ns: 0
+  pageid: 6222400
+  title: Lonnie Liston Smith

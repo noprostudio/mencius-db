@@ -6,13 +6,24 @@ consensus_translation: 大巫师西奥多
 date: ''
 group: Fantastic Freaks
 id: grand wizard theodore
+language: en
 name: Grand Wizard Theodore
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 大巫师西奥多
-  user_name: mimida
-- details: ''
-  github_handler: ''
-  translation: 西奥多大巫师
-  user_name: Lil Bag
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 大巫师西奥多
+    user_name: mimida
+- Lil-Bag:
+    details: ''
+    github_handler: Lil-Bag
+    translation: 西奥多大巫师
+    user_name: Lil Bag
+wikipedia:
+  extract: Theodore Livingston (born March 5, 1963), better known as Grand Wizzard
+    Theodore, is an American hip hop DJ. He is widely credited as the inventor of
+    the scratching technique. In addition to scratching, he gained credibility for
+    his mastery of needle drops and other techniques which he invented or perfected.
+  ns: 0
+  pageid: 210489
+  title: Grand Wizzard Theodore

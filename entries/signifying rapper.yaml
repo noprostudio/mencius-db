@@ -6,14 +6,23 @@ consensus_translation: 意指的说唱歌手
 date: '1988'
 group: ''
 id: signifying rapper
+language: en
 name: Signifying Rapper
 opinions:
-- details: 出自《The Signifying Monkey》这本书，所以翻译沿用中文版书的标题：意指
-  github_handler: ''
-  translation: 意指的说唱歌手
-  user_name: mimida
-- details: The teasing, taunting, and insulting tradition within African American
-    culture is referred to as “signifyin’”
-  github_handler: ''
-  translation: 虚有其表的说唱歌手
-  user_name: Tian Tang
+- mimida:
+    details: 出自《The Signifying Monkey》这本书，所以翻译沿用中文版书的标题：意指
+    github_handler: mimida
+    translation: 意指的说唱歌手
+    user_name: mimida
+- Tian-Tang:
+    details: The teasing, taunting, and insulting tradition within African American
+      culture is referred to as “signifyin’”
+    github_handler: Tian-Tang
+    translation: 虚有其表的说唱歌手
+    user_name: Tian Tang
+wikipedia:
+  extract: Smoke Some Kill is the third album by rapper Schoolly D.  The album was
+    released in 1988 for Jive Records and was produced by Schoolly D.
+  ns: 0
+  pageid: 14337883
+  title: Smoke Some Kill

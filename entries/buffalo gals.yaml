@@ -6,9 +6,34 @@ consensus_translation: 水牛城女孩
 date: '1982'
 group: ''
 id: buffalo gals
+language: en
 name: Buffalo Gals
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 水牛城女孩
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 水牛城女孩
+    user_name: mimida
+wikipedia:
+  extract: '"Buffalo Gals" is a traditional American song, written and published as
+    "Lubly Fan" in 1844 by the blackface minstrel John Hodges, who performed as "Cool
+    White."   The song was widely popular throughout the United States, where minstrels
+    often altered the lyrics to suit local audiences, performing it as "New York Gals"
+    in New York City, "Boston Gals" in Boston, or "Alabama Girls" in Alabama, as in
+    the version recorded by Alan Lomax and Shirley Collins on a 1959 field recording
+    trip. The best-known version is named after Buffalo, New York.The chorus is:
+
+
+    Buffalo gals, won''t you come out tonight?
+
+    Come out tonight,
+
+    Come out tonight?
+
+    Buffalo gals, won''t you come out tonight,
+
+    And dance by the light of the moon?The Western Writers of America chose it as
+    one of the Top 100 Western Songs of all time.'
+  ns: 0
+  pageid: 7188006
+  title: Buffalo Gals

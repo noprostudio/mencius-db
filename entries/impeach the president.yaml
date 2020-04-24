@@ -6,9 +6,21 @@ consensus_translation: 弹劾总统
 date: '1973'
 group: ''
 id: impeach the president
+language: en
 name: Impeach the President
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 弹劾总统
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 弹劾总统
+    user_name: mimida
+wikipedia:
+  extract: '"Impeach the President" is a single by funk band The Honey Drippers, released
+    on Alaga Records in 1973 and re-released to iTunes by Tuff City Records in 2017,
+    after being sampled hundreds of times since the mid 1980s. It is a protest song
+    advocating the impeachment of then-President of the United States Richard Nixon.
+    In the chorus the band chants the song''s title while Roy persuades them to stop.
+    The B-side was "Roy C''s Theme".'
+  ns: 0
+  pageid: 55333398
+  title: Impeach the President

@@ -6,9 +6,12 @@ consensus_translation: 阿帕奇棒球队
 date: 1971-1972
 group: ''
 id: アパッチ野球軍
+language: en
 name: アパッチ野球軍
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 阿帕奇棒球队
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 阿帕奇棒球队
+    user_name: mimida
+wikipedia: null

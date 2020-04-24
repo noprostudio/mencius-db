@@ -6,9 +6,12 @@ consensus_translation: 意指的猴子：一个非裔美国文学批评理论
 date: '1988'
 group: ''
 id: 'the signifying monkey: a theory of african-american literary criticism'
+language: en
 name: 'The Signifying Monkey: A Theory of African-American Literary Criticism'
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 意指的猴子：一个非裔美国文学批评理论
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 意指的猴子：一个非裔美国文学批评理论
+    user_name: mimida
+wikipedia: null

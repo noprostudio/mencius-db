@@ -6,9 +6,21 @@ consensus_translation: 克利夫·坎贝尔
 date: ''
 group: ''
 id: clive campbell
+language: en
 name: Clive Campbell
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 克利夫·坎贝尔
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 克利夫·坎贝尔
+    user_name: mimida
+wikipedia:
+  extract: 'Clive Campbell may refer to:
+
+
+    DJ Kool Herc (Clive Campbell, born 1955), Jamaican-born DJ
+
+    Clive Campbell (footballer), New Zealand footballer in the 1970s and early ''80s'
+  ns: 0
+  pageid: 8611734
+  title: Clive Campbell

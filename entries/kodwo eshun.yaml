@@ -6,9 +6,21 @@ consensus_translation: 库杜伍·艾顺
 date: ''
 group: ''
 id: kodwo eshun
+language: en
 name: Kodwo Eshun
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 库杜伍·艾顺
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 库杜伍·艾顺
+    user_name: mimida
+wikipedia:
+  extract: Kodwo Eshun (born 1967) is a British-Ghanaian writer, theorist and filmmaker.
+    He studied English Literature (BA Hons, MA Hons) at  University College, Oxford
+    University, and Romanticism and Modernism MA Hons at Southampton University. He
+    currently teaches on the MA in Contemporary Art Theory in the Department of Visual
+    Cultures at Goldsmiths College, University of London, and at CCC Research Master
+    Program of the Visual Arts Department at HEAD (Geneva School of Art and Design).
+  ns: 0
+  pageid: 4985441
+  title: Kodwo Eshun

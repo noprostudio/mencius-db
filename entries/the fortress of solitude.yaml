@@ -6,9 +6,38 @@ consensus_translation: 孤独堡垒
 date: '2003'
 group: ''
 id: the fortress of solitude
+language: en
 name: The Fortress of Solitude
 opinions:
-- details: ''
-  github_handler: ''
-  translation: 孤独堡垒
-  user_name: mimida
+- mimida:
+    details: ''
+    github_handler: mimida
+    translation: 孤独堡垒
+    user_name: mimida
+wikipedia:
+  extract: 'The Fortress of Solitude is a fictional fortress appearing in American
+    comic books published by DC Comics, commonly in association with Superman. A place
+    of solace and occasional headquarters for Superman, the fortress is typically
+    depicted as being in frozen tundra, away from civilization. Its predecessor, Superman''s
+    "Secret Citadel", first appeared in Superman #17, where it was said to be built
+    into a mountain on the outskirts of Metropolis. By issue #58 (May–June 1949) it
+    is referred to as the Fortress of Solitude, seems at a glance to be a freestanding
+    castle, and is said to be located in a "polar waste". When the Fortress reappears
+    in 1958 and for the first time takes center stage in a story ("The Super-Key to
+    Fort Superman", Action Comics #241), it is again an underground complex in a mountainous
+    cliffside.
+
+    Traditionally, the Fortress of Solitude is located in the Arctic, though more
+    recent versions of the Superman comics have placed the Fortress in other locations,
+    including the Antarctic, the Andes, and the Amazon rainforest. The general public
+    in Superman''s world is either unaware or at best only vaguely aware of the existence
+    of the Fortress, and its location is kept secret from all but Superman''s closest
+    friends and allies (such as Lois Lane and Batman). A trademark of the Fortress
+    is that it contains a memorial statue of Jor-El and Lara, Superman''s Kryptonian
+    parents, holding a large globe of Krypton. Although Superman has living quarters
+    at the Fortress, his main residence is still Clark Kent''s apartment in Metropolis.
+    The arctic Fortress of Solitude concept was first created for pulp hero Doc Savage
+    during the 1930s.'
+  ns: 0
+  pageid: 845681
+  title: Fortress of Solitude
